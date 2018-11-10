@@ -1,0 +1,8 @@
+{
+  "name": "bjcp-style-guidelines",
+  "version": "0.0.0+20160531",
+  "description": "BJCP Style Guidelines",
+  "devDependencies": {
+    "esm": "*"
+  }
+}
