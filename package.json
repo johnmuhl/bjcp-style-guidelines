@@ -4,6 +4,7 @@
   "description": "BJCP Style Guidelines",
   "scripts": {
     "fmt": "prettier --write '**/*.{js,json,md}' '!package.json'",
+    "lint": "prettier --list-different '**/*.{js,json,md}' '!package.json'",
     "test": "tap --node-arg=-r --node-arg=esm test.js"
   },
   "devDependencies": {
