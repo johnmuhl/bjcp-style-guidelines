@@ -3,10 +3,12 @@
   "version": "0.1.0+20160531",
   "description": "BJCP Style Guidelines",
   "scripts": {
-    "fmt": "prettier --write *.{js,md}"
+    "fmt": "prettier --write *.{js,md}",
+    "test": "tap --node-arg=-r --node-arg=esm test.js"
   },
   "devDependencies": {
     "esm": "*",
-    "prettier": "*"
+    "prettier": "*",
+    "tap": "*"
   }
 }
