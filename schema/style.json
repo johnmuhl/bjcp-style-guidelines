@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://cdn.jsdelivr.net/gh/johnmuhl/bjcp-style-guidelines/schema/style.json",
+  "title": "Style",
+  "description": "A BJCP Style Guidelines style or subcategory",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "overall_impression": {
+      "type": "string"
+    },
+    "aroma": {
+      "type": "string"
+    },
+    "appearance": {
+      "type": "string"
+    },
+    "flavor": {
+      "type": "string"
+    },
+    "mouthfeel": {
+      "type": "string"
+    },
+    "comments": {
+      "type": "string"
+    },
+    "history": {
+      "type": "string"
+    },
+    "characteristic_ingredients": {
+      "type": "string"
+    },
+    "style_comparison": {
+      "type": "string"
+    },
+    "commercial_examples": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    }
+  },
+  "required": ["name"]
+}
