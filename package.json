@@ -7,6 +7,7 @@
     "test": "tap --node-arg=-r --node-arg=esm test.js"
   },
   "devDependencies": {
+    "ajv": "6.5.5",
     "esm": "*",
     "prettier": "*",
     "tap": "*"
