@@ -38,6 +38,79 @@
 		"style_comparison": {
 			"type": "string"
 		},
+		"vital_statistics": {
+			"type": "object",
+			"properties": {
+				"original_extract": {
+					"type": "object",
+					"description": "Original extract represented as Plato",
+					"properties": {
+						"min": {
+							"type": "number"
+						},
+						"max": {
+							"type": "number"
+						}
+					}
+				},
+				"terminal_extract": {
+					"type": "object",
+					"description": "Terminal extract represented as Plato",
+					"properties": {
+						"min": {
+							"type": "number"
+						},
+						"max": {
+							"type": "number"
+						}
+					}
+				},
+				"alcohol": {
+					"type": "object",
+					"description": "Alcohol represented as ABW",
+					"properties": {
+						"min": {
+							"type": "number",
+							"minimum": 1
+						},
+						"max": {
+							"type": "number",
+							"minimum": 1
+						}
+					}
+				},
+				"bitterness": {
+					"type": "object",
+					"description": "Bitterness represented as IBU",
+					"properties": {
+						"min": {
+							"type": "number",
+							"minimum": 0
+						},
+						"max": {
+							"type": "number",
+							"minimum": 0
+						}
+					}
+				},
+				"color": {
+					"type": "object",
+					"description": "Color represented as SRM",
+					"properties": {
+						"min": {
+							"type": "number",
+							"minimum": 2,
+							"maximum": 40
+						},
+						"max": {
+							"type": "number",
+							"minimum": 2,
+							"maximum": 40
+						}
+					}
+				}
+			}
+		},
 		"commercial_examples": {
 			"type": "array",
 			"items": {
