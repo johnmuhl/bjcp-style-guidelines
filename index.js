@@ -1236,7 +1236,7 @@ export default [
 						tags: [
 							"standard-strength",
 							"amber-color",
-							"bottom-fermenting",
+							"bottom-fermented",
 							"central-europe",
 							"traditional-style",
 							"balanced",
@@ -3745,7 +3745,7 @@ export default [
 					"The Bruery Hottenroth",
 				],
 				tags: [
-					"session-beer",
+					"session-strength",
 					"pale-color",
 					"top-fermented",
 					"central-europe",
@@ -3792,7 +3792,7 @@ export default [
 				tags: [
 					"standard-strength",
 					"amber-color",
-					"top-fermenting",
+					"top-fermented",
 					"western-europe",
 					"traditional-style",
 					"sour-ale-family",
@@ -4349,7 +4349,7 @@ export default [
 				tags: [
 					"standard-strength",
 					"pale-color",
-					"top-fermenting",
+					"top-fermented",
 					"western-europe",
 					"craft-style",
 					"bitter",
@@ -4818,7 +4818,7 @@ export default [
 				tags: [
 					"standard-strength",
 					"amber-color",
-					"top-fermenting",
+					"top-fermented",
 					"central-europe",
 					"historical-style",
 					"wheat-beer-family",
@@ -4900,10 +4900,10 @@ export default [
 					"Victory Helios",
 				],
 				tags: [
-					"wild-fermentation",
+					"wild-fermented",
 					"north-america",
 					"craft-style",
-					"specialty-beer",
+					"specialty-family",
 				],
 			},
 			{
@@ -4938,10 +4938,10 @@ export default [
 					"The Bruery Tart of Darkness",
 				],
 				tags: [
-					"wild-fermentation",
+					"wild-fermented",
 					"north-america",
 					"craft-style",
-					"specialty-beer",
+					"specialty-family",
 					"sour",
 				],
 			},
@@ -4977,10 +4977,10 @@ export default [
 					"The Lost Abbey Cuvee de Tomme",
 				],
 				tags: [
-					"wild-fermentation",
+					"wild-fermented",
 					"north-america",
 					"craft-style",
-					"specialty-beer",
+					"specialty-family",
 					"sour",
 					"fruit",
 				],
@@ -5018,7 +5018,7 @@ export default [
 					"Ebulum Elderberry Black Ale",
 					"Founders Rübæus",
 				],
-				tags: ["specialty-beer", "fruit"],
+				tags: ["specialty-family", "fruit"],
 			},
 			{
 				name: "Fruit and Spice Beer",
@@ -5039,7 +5039,7 @@ export default [
 					"Overall balance is the key to presenting a well-made fruit and spice beer. The fruit and spice should each complement the original style and not overwhelm it. The key attributes of the underlying style will be different with the addition of fruit and spice; do not expect the base beer to taste the same as the unadulterated version. Judge the beer based on the pleasantness and balance of the resulting combination. The brewer should recognize that some combinations of base beer styles and fruits/spices work well together while others do not make for harmonious combinations. Whenever fruits, spices, herbs or vegetables are declared, each should be noticeable and distinctive in its own way (although not necessarily individually identifiable; balanced with the other ingredients is still critical) – in other words, the beer should read as a spiced fruit beer but without having to tell that specific fruits and spices are present (even if declared).",
 				entry_instructions:
 					"The entrant **must** specify a base style; the declared style does not have to be a _Classic Style_. The entrant **must** specify the type of fruit and spices, herbs, or vegetables (SHV) used; individual SHV ingredients do not need to be specified if a well-known blend of spices is used (e.g., apple pie spice).",
-				tags: ["specialty-beer", "fruit", "spice"],
+				tags: ["specialty-family", "fruit", "spice"],
 			},
 			{
 				name: "Specialty Fruit Beer",
@@ -5060,7 +5060,7 @@ export default [
 				entry_instructions:
 					"The entrant **must** specify a base style; the declared style does not have to be a _Classic Style_. The entrant **must** specify the type of fruit used. The entrant **must** specify the type of additional fermentable sugar or special process employed.",
 				commercial_examples: ["New Planet Raspberry Ale"],
-				tags: ["specialty-beer", "fruit"],
+				tags: ["specialty-family", "fruit"],
 			},
 		],
 	},
@@ -5098,7 +5098,7 @@ export default [
 					"Traquair Jacobite Ale",
 					"Young’s Double Chocolate Stout",
 				],
-				tags: ["specialty-beer", "spice"],
+				tags: ["specialty-family", "spice"],
 			},
 			{
 				name: "Autumn Seasonal Beer",
@@ -5126,7 +5126,7 @@ export default [
 					"Schlafly Pumpkin Ale",
 					"Southampton Pumpkin Ale",
 				],
-				tags: ["specialty-beer", "spice"],
+				tags: ["specialty-family", "spice"],
 			},
 			{
 				name: "Winter Seasonal Beer",
@@ -5159,7 +5159,7 @@ export default [
 					"Lakefront Holiday Spice Lager Beer",
 					"Weyerbacher Winter Ale",
 				],
-				tags: ["specialty-beer", "spice"],
+				tags: ["specialty-family", "spice"],
 			},
 		],
 	},
@@ -5193,7 +5193,7 @@ export default [
 					"Lakefront New Grist",
 					"New Planet Pale Ale",
 				],
-				tags: ["specialty-beer"],
+				tags: ["specialty-family"],
 			},
 			{
 				name: "Alternative Sugar Beer",
@@ -5219,7 +5219,7 @@ export default [
 					"Fullers Honey Dew",
 					"Lagunitas Brown Shugga’",
 				],
-				tags: ["specialty-beer"],
+				tags: ["specialty-family"],
 			},
 		],
 	},
@@ -5257,7 +5257,7 @@ export default [
 					"Weissbier and Bockbier",
 					"Stone Smoked Porter",
 				],
-				tags: ["specialty-beer", "smoke"],
+				tags: ["specialty-family", "smoke"],
 			},
 			{
 				name: "Specialty Smoked Beer",
@@ -5280,7 +5280,7 @@ export default [
 					"Different materials used to smoke malt result in unique flavor and aroma characteristics. Beechwood, or other hardwood (oak, maple, mesquite, alder, pecan, apple, cherry, other fruitwoods) smoked malts may be used. The various woods may remind one of certain smoked products due to their food association (e.g., hickory with ribs, maple with bacon or sausage, and alder with salmon). Evergreen wood should never be used since it adds a medicinal, piney flavor to the malt. Noticeable peat-smoked malt is universally undesirable due to its sharp, piercing phenolics and dirt-like earthiness. The beer ingredients vary with the base style. Other unusual ingredients (fruits, vegetables, spices, honey, etc.) used in noticeable quantities.",
 				entry_instructions:
 					"The entrant **must** specify a base beer style; the base beer does not have to be a _Classic Style_. The entrant **must** specify the type of wood or smoke **if** a varietal smoke character is noticeable. The entrant **must** specify the additional ingredients or processes that make this a specialty smoked beer.",
-				tags: ["specialty-beer", "smoke"],
+				tags: ["specialty-family", "smoke"],
 			},
 		],
 	},
@@ -5322,7 +5322,7 @@ export default [
 					"Petrus Aged Pale",
 					"Samuel Smith Yorkshire Stingo",
 				],
-				tags: ["specialty-beer", "wood"],
+				tags: ["specialty-family", "wood"],
 			},
 			{
 				name: "Specialty Wood-Aged Beer",
@@ -5349,7 +5349,7 @@ export default [
 					"The entrant **must** specify the additional alcohol character, with information about the barrel if relevant to the finished flavor profile. The entrant **must** specify the _base style_; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood or ingredient has been used, the entrant **must** supply a brief description of the sensory aspects the ingredients adds to the beer.",
 				commercial_example:
 					"Founders Kentucky Breakfast Stout, Goose Island Bourbon County Stout, J.W. Lees Harvest Ale in Port, Sherry, Lagavulin Whisky or Calvados Casks, The Lost Abbey Angel’s Share Ale",
-				tags: ["specialty-beer", "wood"],
+				tags: ["specialty-family", "wood"],
 			},
 		],
 	},
@@ -5373,7 +5373,7 @@ export default [
 					"Intended as a catch-all location for specific beers that are based on unique commercial examples that don't fit existing styles.",
 				entry_instructions:
 					"The entrant **must** specify the name of the commercial beer being cloned, specifications (vital statistics) for the beer, and either a brief sensory description or a list of ingredients used in making the beer. _Without this information, judges who are unfamiliar with the beer will have no basis for comparison_.",
-				tags: ["specialty-beer"],
+				tags: ["specialty-family"],
 			},
 			{
 				name: "Mixed-Style Beer",
@@ -5390,7 +5390,7 @@ export default [
 					"Intended for Specialty-Type combinations of styles not described elsewhere as Specialty-Type Beers, or as hybrid or fusion beers between other existing styles.",
 				entry_instructions:
 					"The entrant **must** specify the styles being mixed. The entrant **may** provide an additional description of the sensory profile of the beer or the vital statistics of the resulting beer.",
-				tags: ["specialty-beer"],
+				tags: ["specialty-family"],
 			},
 			{
 				name: "Experimental Beer",
@@ -5406,7 +5406,7 @@ export default [
 					"This style is the ultimate in creativity, since it cannot represent a well-known commercial beer (otherwise it would be a clone beer) and cannot fit into any other existing Specialty-Type style (including those within this major category).",
 				entry_instructions:
 					"The entrant **must** specify the special nature of the experimental beer, including the special ingredients or processes that make it not fit elsewhere in the guidelines. The entrant **must** provide vital statistics for the beer, **and** either a brief sensory description or a list of ingredients used in making the beer. _Without this information, judges will have no basis for comparison_.",
-				tags: ["specialty-beer"],
+				tags: ["specialty-family"],
 			},
 		],
 	},
