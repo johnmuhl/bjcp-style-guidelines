@@ -343,7 +343,7 @@ export default [
 		name: "Czech Lager",
 		id: "3",
 		notes:
-			"Czech lagers are generally divided by gravity class (draft, lager, special) and color (pale, amber, dark). The Czech names for these categories are světlé (pale), polotmavé (amber), and tmavé (dark). The gravity classes are výčepní (draft, 7–10 °P), ležák (lager, 11–12 °P), and speciální (special, 13 °P+). Pivo is of course the Czech word for beer. The division into gravity classes is similar to the German groupings of schankbier, vollbier, and starkbier, although at different gravity ranges. Czech beers within the classes are often simply referenced by their gravity. There are often variations within the gravity-color groupings, particularly within the speciální class. The style guidelines combine some of these classes, while other beers in the Czech market are not described (such as the strong Czech Porter). This is not to imply that the categories below are the full coverage of Czech beers, simply a way of grouping some of the more commonly found types for judging purposes.\n\nCzech lagers in general are differentiated from German and other Western lagers in that German lagers are almost always fully attenuated, while Czech lagers can have a slight amount of unfermented extract remaining in the finished beer. This helps provide a slightly higher finishing gravity (and thus slightly lower apparent attenuation), slightly fuller body and mouthfeel, and a richer, slightly more complex flavor profile in equivalent color and strength beers. German lagers tend to have a cleaner fermentation profile, while Czech lagers are often fermented cooler (7–10 °C) and for a longer time, and can have a light, barely noticeable (near threshold) amount of diacetyl that often is perceived more as a rounded body than overtly in aroma and flavor [significant buttery diacetyl is a flaw]. Czech lager yeast strains are not always as clean and attenuative as German strains, which helps achieve the higher finishing gravity (along with the mashing methods and cooler fermentation). Czech lagers are traditionally made with decoction mashes (often double decoction), even with modern malts, while most modern German lagers are made with infusion or step infusion mashes. These differences characterize the richness, mouthfeel, and flavor profile that distinguishes Czech lagers.",
+			"Czech lagers are generally divided by gravity class (draft, lager, special) and color (pale, amber, dark). The Czech names for these categories are _světlé_ (pale), _polotmavé_ (amber), and _tmavé_ (dark). The gravity classes are _výčepní_ (draft, 7–10 °P), _ležák_ (lager, 11–12 °P), and _speciální_ (special, 13 °P+). _Pivo_ is of course the Czech word for beer. The division into gravity classes is similar to the German groupings of _schankbier_, _vollbier_, and _starkbier_, although at different gravity ranges. Czech beers within the classes are often simply referenced by their gravity. There are often variations within the gravity-color groupings, particularly within the _speciální_ class. The style guidelines combine some of these classes, while other beers in the Czech market are not described (such as the strong Czech Porter). This is not to imply that the categories below are the full coverage of Czech beers, simply a way of grouping some of the more commonly found types for judging purposes.\n\nCzech lagers in general are differentiated from German and other Western lagers in that German lagers are almost always fully attenuated, while Czech lagers can have a slight amount of unfermented extract remaining in the finished beer. This helps provide a slightly higher finishing gravity (and thus slightly lower apparent attenuation), slightly fuller body and mouthfeel, and a richer, slightly more complex flavor profile in equivalent color and strength beers. German lagers tend to have a cleaner fermentation profile, while Czech lagers are often fermented cooler (7–10 °C) and for a longer time, and can have a light, barely noticeable (near threshold) amount of diacetyl that often is perceived more as a rounded body than overtly in aroma and flavor [significant buttery diacetyl is a flaw]. Czech lager yeast strains are not always as clean and attenuative as German strains, which helps achieve the higher finishing gravity (along with the mashing methods and cooler fermentation). Czech lagers are traditionally made with decoction mashes (often double decoction), even with modern malts, while most modern German lagers are made with infusion or step infusion mashes. These differences characterize the richness, mouthfeel, and flavor profile that distinguishes Czech lagers.",
 		subcategories: [
 			{
 				name: "Czech Pale Lager",
@@ -357,9 +357,9 @@ export default [
 				flavor:
 					"Medium-low to medium bready-rich malt flavor with a rounded, hoppy finish. Low to medium-high spicy or herbal hop flavor. Bitterness is prominent but never harsh. Flavorful and refreshing. Diacetyl or fruity esters are acceptable at low levels, but need not be present and should never be overbearing.",
 				mouthfeel: "Medium-light to medium body. Moderate carbonation. ",
-				comments: "The Czech name of the style is světlé výčepní pivo. ",
+				comments: "The Czech name of the style is _světlé výčepní pivo_. ",
 				history:
-					"Josef Groll initially brewed two types of beer in 1842–3, a výčepní and a ležák, with the smaller beer having twice the production; Evan Rail speculates that these were probably 10 °P and 12 °P beers, but that the výčepní could have been weaker. This is the most consumed type of beer in the Czech Republic at present.",
+					"Josef Groll initially brewed two types of beer in 1842–3, a _výčepní_ and a _ležák_, with the smaller beer having twice the production; Evan Rail speculates that these were probably 10 °P and 12 °P beers, but that the _výčepní_ could have been weaker. This is the most consumed type of beer in the Czech Republic at present.",
 
 				characteristic_ingredients:
 					"Soft water with low sulfate and carbonate content, Saazer-type hops, Czech Pilsner malt, Czech lager yeast. Low ion water provides a distinctively soft, rounded hop profile despite high hopping rates. ",
@@ -403,7 +403,7 @@ export default [
 					"Rich, complex, bready maltiness combined with a pronounced yet soft and rounded bitterness and floral and spicy hop flavor. Malt and hop flavors are medium to medium-high, and the malt may contain a slight impression of caramel. Bitterness is prominent but never harsh. The long finish can be balanced towards hops or malt but is never aggressively tilted either way. Light to moderate diacetyl and low hop-derived esters are acceptable, but need not be present.",
 				mouthfeel: "Medium body. Moderate to low carbonation. ",
 				comments:
-					"Generally a group of pivo Plzeňského typu, or Pilsner-type beers. This style is a combination of the Czech styles světlý ležák (11–12.9 °P) and světlé speciální pivo (13–14.9 °P). In the Czech Republic, only Pilsner Urquell is called a Pilsner, despite how widely adopted this name is worldwide. Kvasnicové (“yeast beer”) versions are popular in the Czech Republic, and may be either kräusened with yeasted wort or given a fresh dose of pure yeast after fermentation. These beers are sometimes cloudy, with subtle yeastiness and enhanced hop character. Modern examples vary in their malt to hop balance and many are not as hop-forward as Pilsner Urquell.",
+					"Generally a group of _pivo Plzeňského typu_, or Pilsner-type beers. This style is a combination of the Czech styles _světlý ležák_ (11–12.9 °P) and _světlé speciální pivo_ (13–14.9 °P). In the Czech Republic, only Pilsner Urquell is called a Pilsner, despite how widely adopted this name is worldwide. _Kvasnicové_ (“yeast beer”) versions are popular in the Czech Republic, and may be either kräusened with yeasted wort or given a fresh dose of pure yeast after fermentation. These beers are sometimes cloudy, with subtle yeastiness and enhanced hop character. Modern examples vary in their malt to hop balance and many are not as hop-forward as Pilsner Urquell.",
 				history:
 					"Commonly associated with Pilsner Urquell, which was first brewed in 1842 after construction of a new brewhouse by burghers dissatisfied with the standard of beer brewed in Plzeň. Bavarian brewer Josef Groll is credited with first brewing the beer.",
 				characteristic_ingredients:
@@ -452,7 +452,7 @@ export default [
 				mouthfeel:
 					"Medium-full to medium body. Soft and round, often with a gentle creaminess. Moderate to low carbonation.",
 				comments:
-					"The Czech name of the style is polotmavé pivo, which translates as half dark. This style is a combination of the Czech styles polotmavý ležák (11–12.9 °P) and polotmavé speciální pivo (13–14.9 °P).",
+					"The Czech name of the style is _polotmavé pivo_, which translates as _half dark_. This style is a combination of the Czech styles _polotmavý ležák_ (11–12.9 °P) and _polotmavé speciální pivo_ (13–14.9 °P).",
 				history:
 					"A Vienna-style lager which has continued to be brewed in the Czech Republic. A resurgence of small breweries opening in the Czech Republic has increased the number of examples of this style. ",
 				characteristic_ingredients:
@@ -497,7 +497,7 @@ export default [
 				mouthfeel:
 					"Medium to medium-full body, considerable mouthfeel without being heavy or cloying. Moderately creamy in texture. Smooth. Moderate to low carbonation. Can have a slight alcohol warmth in stronger versions.",
 				comments:
-					"This style is a combination of the Czech styles tmavý ležák (11–12.9 °P) and tmavé speciální pivo (13–14.9 °P). More modern examples are drier and have higher bitterness while traditional versions often have IBUs in the 18–20 range with a sweeter balance.",
+					"This style is a combination of the Czech styles _tmavý ležák_ (11–12.9 °P) and _tmavé speciální pivo_ (13–14.9 °P). More modern examples are drier and have higher bitterness while traditional versions often have IBUs in the 18–20 range with a sweeter balance.",
 				history:
 					"The U Fleků brewery has been operating in Prague since 1499. Many small, new breweries are brewing this style.",
 				characteristic_ingredients:
@@ -601,7 +601,7 @@ export default [
 				mouthfeel:
 					"Medium body, with a smooth, somewhat creamy texture. Medium carbonation. Alcohol strength barely noticeable as warming, if at all. ",
 				comments:
-					"This style represents the modern German beer served at Oktoberfest (although it is not solely reserved for Oktoberfest; it can be found at many other ‘fests’), and is sometimes called Wiesn (“the meadow” or local name for the Oktoberfest festival). We chose to call this style Festbier since by German and EU regulations, Oktoberfestbier is a protected appellation for beer produced at large breweries within the Munich city limits for consumption at Oktoberfest. Other countries are not bound by these rules, so many craft breweries in the US produce beer called Oktoberfest, but based on the traditional style described in these guidelines as Märzen.",
+					"This style represents the modern German beer served at Oktoberfest (although it is not solely reserved for Oktoberfest; it can be found at many other ‘fests’), and is sometimes called Wiesn (“the meadow” or local name for the Oktoberfest festival). We chose to call this style _Festbier_ since by German and EU regulations, _Oktoberfestbier_ is a protected appellation for beer produced at large breweries within the Munich city limits for consumption at Oktoberfest. Other countries are not bound by these rules, so many craft breweries in the US produce beer called Oktoberfest, but based on the traditional style described in these guidelines as _Märzen_.",
 				history:
 					"Since 1990, the majority of beer served at Oktoberfest in Munich has been this style. Export beer specifically made for the United States is still mainly of the traditional amber style, as are US-produced interpretations. Paulaner first created the golden version in the mid-1970s because they thought the traditional Oktoberfest was too filling. So they developed a lighter, more drinkable but still malty version that they wanted to be “more poundable” (according to the head brewer at Paulaner). But the actual type of beer served at Oktoberfest is set by a Munich city committee.",
 				characteristic_ingredients:
@@ -752,9 +752,9 @@ export default [
 				mouthfeel:
 					"Medium-light to medium body (most are medium-light). Medium to medium-high carbonation. Smooth and generally crisp and well-attenuated.",
 				comments:
-					"Characterized in Germany as a top-fermented, lagered beer. Each Köln brewery produces a beer of different character, and each interprets the Kölsch Konvention slightly differently. Allow for a range of variation within the style when judging. Note that drier versions may seem hoppier or more bitter than the IBU specifications might suggest. Due to its delicate flavor profile, Kölsch tends to have a relatively short shelf-life; older examples and imports can easily show some oxidation defects. Served in Köln in a tall, narrow 200ml glass called a Stange.",
+					"Characterized in Germany as a top-fermented, lagered beer. Each Köln brewery produces a beer of different character, and each interprets the _Kölsch Konvention_ slightly differently. Allow for a range of variation within the style when judging. Note that drier versions may seem hoppier or more bitter than the IBU specifications might suggest. Due to its delicate flavor profile, Kölsch tends to have a relatively short shelf-life; older examples and imports can easily show some oxidation defects. Served in Köln in a tall, narrow 200ml glass called a _Stange_.",
 				history:
-					"Cologne, Germany (Köln) has a top-fermenting brewing tradition since the Middle Ages, but developed the beer now known as Kölsch in the late 1800s to combat encroaching bottom-fermented pale lagers. Kölsch is an appellation protected by the Kölsch Konvention (1986), and is restricted to the 20 or so breweries in and around Köln. The Konvention simply defines the beer as a “light, highly attenuated, hop-accentuated, clear, top-fermenting Vollbier.” ",
+					"Cologne, Germany (Köln) has a top-fermenting brewing tradition since the Middle Ages, but developed the beer now known as Kölsch in the late 1800s to combat encroaching bottom-fermented pale lagers. Kölsch is an appellation protected by the _Kölsch Konvention_ (1986), and is restricted to the 20 or so breweries in and around Köln. The _Konvention_ simply defines the beer as a “light, highly attenuated, hop-accentuated, clear, top-fermenting _Vollbier_.” ",
 				characteristic_ingredients:
 					"Traditional German hops (Hallertau, Tettnang, Spalt or Hersbrucker). German Pils or pale malt. Attenuative, clean ale yeast. Up to 20% wheat malt may be used, but this is quite rare in authentic versions. Current commercial practice is to ferment warm, cold condition for a short period of time, and serve young.",
 				style_comparison:
@@ -900,9 +900,9 @@ export default [
 				mouthfeel:
 					"Medium body, with a smooth, creamy texture that often suggests a fuller mouthfeel. Medium carbonation. Fully attenuated, without a sweet or cloying impression. May be slightly warming, but the strength should be relatively hidden.",
 				comments:
-					"Modern domestic German Oktoberfest versions are golden – see the Festbier style for this version. Export German versions (to the United States, at least) are typically orange-amber in color, have a distinctive toasty malt character, and are most often labeled Oktoberfest. American craft versions of Oktoberfest are generally based on this style, and most Americans will recognize this beer as Oktoberfest. Historic versions of the beer tended to be darker, towards the brown color range, but there have been many ‘shades’ of Märzen (when the name is used as a strength); this style description specifically refers to the stronger amber lager version. The modern Festbier can be thought of as a pale Märzen by these terms.",
+					"Modern domestic German Oktoberfest versions are golden – see the _Festbier_ style for this version. Export German versions (to the United States, at least) are typically orange-amber in color, have a distinctive toasty malt character, and are most often labeled _Oktoberfest_. American craft versions of Oktoberfest are generally based on this style, and most Americans will recognize this beer as _Oktoberfest_. Historic versions of the beer tended to be darker, towards the brown color range, but there have been many ‘shades’ of Märzen (when the name is used as a strength); this style description specifically refers to the stronger amber lager version. The modern _Festbier_ can be thought of as a pale Märzen by these terms.",
 				history:
-					"As the name suggests, brewed as a stronger “March beer” in March and lagered in cold caves over the summer. Modern versions trace back to the lager developed by Spaten in 1841, contemporaneous to the development of Vienna lager. However, the Märzen name is much older than 1841; the early ones were dark brown, and in Austria the name implied a strength band (14 °P) rather than a style. The German amber lager version (in the Viennese style of the time) was first served at Oktoberfest in 1872, a tradition that lasted until 1990 when the golden Festbier was adopted as the standard festival beer. ",
+					"As the name suggests, brewed as a stronger “March beer” in March and lagered in cold caves over the summer. Modern versions trace back to the lager developed by Spaten in 1841, contemporaneous to the development of Vienna lager. However, the Märzen name is much older than 1841; the early ones were dark brown, and in Austria the name implied a strength band (14 °P) rather than a style. The German amber lager version (in the Viennese style of the time) was first served at Oktoberfest in 1872, a tradition that lasted until 1990 when the golden _Festbier_ was adopted as the standard festival beer. ",
 				characteristic_ingredients:
 					"Grist varies, although traditional German versions emphasized Munich malt. The notion of elegance is derived from the finest quality ingredients, particularly the base malts. A decoction mash was traditionally used to develop the rich malt profile.",
 				style_comparison:
@@ -947,7 +947,7 @@ export default [
 				comments:
 					"Literally “smoke beer” in German. The intensity of smoke character can vary widely; not all examples are highly smoked. Allow for variation in the style when judging. Other examples of smoked beers are available in Germany based on styles such as Dunkles Bock, Weissbier, Dunkel, Schwarzbier, and Helles, including examples such as Spezial Lager; these should be entered in the Classic Style Smoked Beer category. This description specifically refers to the smoked Märzen version.",
 				history:
-					"A historical specialty of the city of Bamberg, in the Franconian region of Bavaria in Germany. Beechwood-smoked malt is used to make a Märzen-style amber lager. The smoke character of the malt varies by maltster; some breweries produce their own smoked malt (rauchmalz).",
+					"A historical specialty of the city of Bamberg, in the Franconian region of Bavaria in Germany. Beechwood-smoked malt is used to make a Märzen-style amber lager. The smoke character of the malt varies by maltster; some breweries produce their own smoked malt (_rauchmalz_).",
 				characteristic_ingredients:
 					"German Rauchmalz (beechwood-smoked Vienna-type malt) typically makes up 20-100% of the grain bill, with the remainder being German malts typically used in a Märzen. Some breweries adjust the color slightly with a bit of roasted malt. German lager yeast. German or Czech hops.",
 				style_comparison:
@@ -993,7 +993,7 @@ export default [
 				comments:
 					"Decoction mashing and long boiling plays an important part of flavor development, as it enhances the caramel and Maillard flavor aspects of the malt. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.",
 				history:
-					"Originated in the Northern German city of Einbeck, which was a brewing center and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich starting in the 17th century. The name “bock” is based on a corruption of the name “Einbeck” in the Bavarian dialect, and was thus only used after the beer came to Munich. “Bock” also means “Ram” in German, and is often used in logos and advertisements.",
+					"Originated in the Northern German city of Einbeck, which was a brewing center and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich starting in the 17ᵗʰ century. The name “bock” is based on a corruption of the name “Einbeck” in the Bavarian dialect, and was thus only used after the beer came to Munich. “Bock” also means “Ram” in German, and is often used in logos and advertisements.",
 				characteristic_ingredients:
 					"Munich and Vienna malts, rarely a tiny bit of dark roasted malts for color adjustment, never any non-malt adjuncts. Continental European hop varieties are used. Clean German lager yeast. ",
 				style_comparison:
@@ -1143,7 +1143,7 @@ export default [
 				history:
 					"Originally, Kellerbier referred to any Lager beer being matured in the caves or cellars under the brewery. In the 19th century, Kellerbier was a strong, aged beer meant to last the summer (Sommerbier), stored in rock cellars and served straight from them. But when refrigeration began to be used, the term shifted to describing special beers that were served young, directly from the cellar or lagering vessel. Today some breweries use the term purely for marketing purposes to make their beers appear special. While a kellerbier is sometimes considered more of a serving style than a beer style, the serving technique is still predominately used with certain styles in certain regions (such as Helles around the Munich area, or a Märzen in the Franconia region).",
 				entry_instructions:
-					"The entrant **must** specify whether the entry is a Pale Kellerbier (based on Helles) or an Amber Kellerbier (based on Märzen). The entrant may specify another type of Kellerbier based on other base styles such as Pils, Bock, Schwarzbier, but should supply a style description for judges.",
+					"The entrant **must** specify whether the entry is a _Pale Kellerbier_ (based on Helles) or an _Amber Kellerbier_ (based on Märzen). The entrant may specify another type of Kellerbier based on other base styles such as Pils, Bock, Schwarzbier, but should supply a style description for judges.",
 				styles: [
 					{
 						name: "Pale Kellerbier",
@@ -1376,6 +1376,8 @@ export default [
 					"Pils and/or Vienna malt for pale versions (with some Munich), Munich and Vienna malts for darker ones and occasionally a tiny bit of darker color malts (such as Carafa). Saazer-type hops. Clean lager yeast. Decoction mashing is traditional.",
 				style_comparison:
 					"A stronger, richer, more full-bodied version of either a Dunkles Bock or a Helles Bock. Pale versions will show higher attenuation and less dark fruity character than the darker versions.",
+				entry_instructions:
+					"The entrant will specify whether the entry is a **pale** or a **dark** variant.",
 				vital_statistics: {
 					original_extract: { min: 17.4, max: 26.3 },
 					terminal_extract: { min: 4.1, max: 6.1 },
@@ -1515,7 +1517,7 @@ export default [
 				mouthfeel:
 					"Medium-light to medium body; never heavy. Suspended yeast may increase the perception of body. The texture of wheat imparts the sensation of a fluffy, creamy fullness that may progress to a light, spritzy finish aided by high to very high carbonation. Always effervescent.",
 				comments:
-					"These are refreshing, fast-maturing beers that are lightly hopped and show a unique banana-and-clove yeast character. These beers often don’t age well and are best enjoyed while young and fresh. The version mit hefe is served with suspended yeast; the krystal version is filtered for excellent clarity. The character of a krystal weizen is generally fruitier and less phenolic than that of the weissbier mit hefe. May be known as hefeweizen, particularly in the United States. ",
+					"These are refreshing, fast-maturing beers that are lightly hopped and show a unique banana-and-clove yeast character. These beers often don’t age well and are best enjoyed while young and fresh. The version _mit hefe_ is served with suspended yeast; the _krystal_ version is filtered for excellent clarity. The character of a krystal weizen is generally fruitier and less phenolic than that of the weissbier mit hefe. May be known as _hefeweizen_, particularly in the United States. ",
 				history:
 					"While Bavaria has a wheat beer tradition dating back hundreds of years, brewing wheat beer used to be a monopoly reserved for Bavarian royalty. Modern weissbier dates from 1872 when Schneider began production. However, pale weissbier only became popular since the 1960s. It is quite popular today, particularly in southern Germany.",
 				characteristic_ingredients:
@@ -1558,7 +1560,7 @@ export default [
 				mouthfeel:
 					"Medium-light to medium-full body. The texture of wheat as well as yeast in suspension imparts the sensation of a fluffy, creamy fullness that may progress to a lighter finish, aided by moderate to high carbonation. Effervescent. ",
 				comments:
-					"The presence of Munich and/or Vienna-type barley malts gives this style a deep, rich barley malt character not found in a weissbier. Often known as dunkelweizen, particularly in the United States.",
+					"The presence of Munich and/or Vienna-type barley malts gives this style a deep, rich barley malt character not found in a weissbier. Often known as _dunkelweizen_, particularly in the United States.",
 				history:
 					"Bavaria has a wheat beer brewing traditional hundreds of years old, but the brewing right was reserved for Bavarian royalty until the late 1700s. Old-fashioned Bavarian wheat beer was often dark, as were most beer of the day. Pale weissbier started to become popular in the 1960s, but traditional dark wheat beer remained somewhat of an old person’s drink.",
 				characteristic_ingredients:
@@ -1901,7 +1903,7 @@ export default [
 				comments:
 					"The attributes of IPA that were important to its arrival in good condition in India were that it was very well-attenuated, and heavily hopped. Simply because this is how IPA was shipped, doesn’t mean that other beers such as Porter weren’t also sent to India, that IPA was invented to be sent to India, that IPA was more heavily hopped than other keeping beers, or that the alcohol level was unusual for the time. Many modern examples labeled IPA are quite weak in strength. According to CAMRA, “so-called IPAs with strengths of around 3.5% are not true to style.” English beer historian Martyn Cornell has commented that beers like this are “not really distinguishable from an ordinary bitter.” So we choose to agree with these sources for our guidelines rather than what some modern British breweries are calling an IPA; just be aware of these two main types of IPAs in the British market today.",
 				history:
-					"Accounts of its origins vary, but most agree that what became later known as IPA was pale ale prepared for shipment to India in the late 1700s and early 1800s. George Hodgson of the Bow Brewery became well-known as an exporter of IPA during the early 1800s, and is the first name frequently mentioned with its popularity. As with all English beers with a long history, the popularity and formulation of the product changed over time. Burton breweries with their high-sulfate water were able to successfully brew IPA and began their domination of this market by the 1830s, around the time the name India Pale Ale was first used. Strength and popularity declined over time, and the style virtually disappeared in the second half of the 20th century. The name was often used to describe pale ales and bitters, not anything special (a trend that continues in some modern British examples). The style underwent a craft beer rediscovery in the 1980s, and is what is described in these guidelines. Modern examples are inspired by classic versions, but shouldn’t be assumed to have an unbroken lineage with the exact same profile. White Shield is probably the example with the longest lineage, tracing to the strong Burton IPAs of old and first brewed in 1829.",
+					"Accounts of its origins vary, but most agree that what became later known as IPA was pale ale prepared for shipment to India in the late 1700s and early 1800s. George Hodgson of the Bow Brewery became well-known as an exporter of IPA during the early 1800s, and is the first name frequently mentioned with its popularity. As with all English beers with a long history, the popularity and formulation of the product changed over time. Burton breweries with their high-sulfate water were able to successfully brew IPA and began their domination of this market by the 1830s, around the time the name India Pale Ale was first used. Strength and popularity declined over time, and the style virtually disappeared in the second half of the 20ᵗʰ century. The name was often used to describe pale ales and bitters, not anything special (a trend that continues in some modern British examples). The style underwent a craft beer rediscovery in the 1980s, and is what is described in these guidelines. Modern examples are inspired by classic versions, but shouldn’t be assumed to have an unbroken lineage with the exact same profile. White Shield is probably the example with the longest lineage, tracing to the strong Burton IPAs of old and first brewed in 1829.",
 				characteristic_ingredients:
 					"Pale ale malt. English hops are traditional, particularly as finishing hops. Attenuative British ale yeast. Refined sugar may be used in some versions. Some versions may show a sulfate character from Burton-type water, but this is not essential to the style.",
 				style_comparison:
@@ -1957,7 +1959,7 @@ export default [
 				comments:
 					"Most are low-gravity session beers around 3.2%, although some versions may be made in the stronger (4%+) range for export, festivals, seasonal and/or special occasions. Generally served on cask; session-strength bottled versions don’t often travel well. A wide range of interpretations are possible. Pale versions exist, but these are even more rare than dark milds; these guidelines only describe the modern dark version.",
 				history:
-					"Historically, ‘mild’ was simply an unaged beer, and could be used as an adjective to distinguish between aged or more highly hopped keeping beers. Modern milds trace their roots to the weaker X-type ales of the 1800s, although dark milds did not appear until the 20th century. In current usage, the term implies a lower-strength beer with less hop bitterness than bitters. The guidelines describe the modern British version. The term ‘mild’ is currently somewhat out of favor with consumers, and many breweries no longer use it. Increasingly rare. There is no historic connection or relationship between Mild and Porter.",
+					"Historically, ‘mild’ was simply an unaged beer, and could be used as an adjective to distinguish between aged or more highly hopped keeping beers. Modern milds trace their roots to the weaker X-type ales of the 1800s, although dark milds did not appear until the 20th century. In current usage, the term implies a lower-strength beer with less hop bitterness than bitters. The guidelines describe the modern British version. The term ‘mild’ is currently somewhat out of favor with consumers, and many breweries no longer use it. Increasingly rare. **_There is no historic connection or relationship between Mild and Porter_**.",
 				style_comparison:
 					"Some versions may seem like lower-gravity modern English porters. Much less sweet than London Brown Ale.",
 				characteristic_ingredients:
@@ -2049,7 +2051,7 @@ export default [
 				comments:
 					"This style description describes the modern version of English porter, not every possible variation over time in every region where it existed. Historical re-creations should be entered in the Historical style category, with an appropriate description describing the profile of the beer. Modern craft examples in the UK are bigger and hoppier.",
 				history:
-					"Originating in London around 300 years ago, porter evolved from earlier sweet, Brown Beer popular at the time. Evolved many times with various technological and ingredient developments and consumer preferences driving these changes. Became a highly-popular, widely-exported style in the 1800s before declining around WWI and disappearing in the 1950s. It was re-introduced in the mid-1970s with the start of the craft beer era. The name is said to have been derived from its popularity with the London working class performing various load-carrying tasks of the day. Parent of various regional interpretations over time, and a predecessor to all stouts (which were originally called “stout porters”). There is no historic connection or relationship between Mild and Porter.",
+					"Originating in London around 300 years ago, porter evolved from earlier sweet, Brown Beer popular at the time. Evolved many times with various technological and ingredient developments and consumer preferences driving these changes. Became a highly-popular, widely-exported style in the 1800s before declining around WWI and disappearing in the 1950s. It was re-introduced in the mid-1970s with the start of the craft beer era. The name is said to have been derived from its popularity with the London working class performing various load-carrying tasks of the day. Parent of various regional interpretations over time, and a predecessor to all stouts (which were originally called “stout porters”). **_There is no historic connection or relationship between Mild and Porter_**.",
 				characteristic_ingredients:
 					"Grists vary, but something producing a dark color is always involved. Chocolate or other dark-roasted malts, caramel malt, brewing sugars, and the like are common. London-type porters often use brown malt as a characteristic flavor. ",
 				style_comparison:
@@ -2101,7 +2103,7 @@ export default [
 				mouthfeel:
 					"Medium-low to medium body. Low to moderate carbonation. Can be relatively rich and creamy to dry and grainy.",
 				comments:
-					"Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via ‘kettle caramelization’ is not traditional nor is any blatantly ‘butterscotch’ character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a Classic Style Smoked Beer.",
+					"Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via ‘kettle caramelization’ is not traditional nor is any blatantly ‘butterscotch’ character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a _Classic Style Smoked Beer_.",
 				characteristic_ingredients:
 					"Originally used Scottish pale malt, grits or flaked maize, and brewers caramel for color. Later adapted to use additional ingredients, such as amber and brown malts, crystal and wheat malts, and roasted grains or dark sugars for color but not for the ‘roasty’ flavor. Sugar adjuncts are traditional. Clean or slightly fruity yeast. Peat-smoked malt is inauthentic and inappropriate.",
 				style_comparison:
@@ -2138,7 +2140,7 @@ export default [
 				mouthfeel:
 					"Medium-low to medium body. Low to moderate carbonation. Can be relatively rich and creamy to dry and grainy. ",
 				comments:
-					"Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via ‘kettle caramelization’ is not traditional nor is any blatantly ‘butterscotch’ character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a Classic Style Smoked Beer.",
+					"Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via ‘kettle caramelization’ is not traditional nor is any blatantly ‘butterscotch’ character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a _Classic Style Smoked Beer_.",
 				characteristic_ingredients:
 					"Originally used Scottish pale malt, grits or flaked maize, and brewers caramel for color. Later adapted to use additional ingredients, such as amber and brown malts, crystal and wheat malts, and roasted grains or dark sugars for color but not for the ‘roasty’ flavor. Sugar adjuncts are traditional. Clean or slightly fruity yeast. Peat-smoked malt is inauthentic and inappropriate.",
 				style_comparison: "Similar character to a Wee Heavy, but much smaller.",
@@ -2180,7 +2182,7 @@ export default [
 				mouthfeel:
 					"Medium-low to medium body. Low to moderate carbonation. Can be relatively rich and creamy to dry and grainy. ",
 				comments:
-					"Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via ‘kettle caramelization’ is not traditional nor is any blatantly ‘butterscotch’ character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a Classic Style Smoked Beer.",
+					"Malt-focused ales that gain the vast majority of their character from specialty malts, never the process. Burning malt or wort sugars via ‘kettle caramelization’ is not traditional nor is any blatantly ‘butterscotch’ character. Most frequently a draught product. Smoke character is inappropriate as any found traditionally would have come from the peat in the source water. Scottish ales with smoke character should be entered as a _Classic Style Smoked Beer_.",
 				characteristic_ingredients:
 					"Originally used Scottish pale malt, grits or flaked maize, and brewers caramel for color. Later adapted to use additional ingredients, such as amber and brown malts, crystal and wheat malts, and roasted grains or dark sugars for color but not for the ‘roasty’ flavor. Sugar adjuncts are traditional. Clean or slightly fruity yeast. Peat-smoked malt is inauthentic and inappropriate.",
 				style_comparison: "Similar character to a Wee Heavy, but much smaller.",
@@ -2519,7 +2521,7 @@ export default [
 				comments:
 					"Also known as Foreign Stout, Export Stout, Foreign Export Stout. Historic versions (before WWI, at least) had the same OG as domestic Extra Stouts, but had a higher ABV because it had a long secondary with Brettanomyces chewing away at it. The difference between domestic and foreign versions were the hopping and length of maturation. ",
 				history:
-					"Stronger stouts brewed for the export market today, but with a history stretching back to the 18th and 19th centuries when they were more heavily-hopped versions of stronger export stouts. Guinness Foreign Extra Stout (originally, West India Porter, later Foreign Extra Double Stout) was first brewed in 1801 according to Guinness with “extra hops to give it a distinctive taste and a longer shelf life in hot weather, this is brewed [today] in Africa, Asia and the Caribbean. It [currently] makes up 40% of all the Guinness brewed around the world.” ",
+					"Stronger stouts brewed for the export market today, but with a history stretching back to the 18ᵗʰ and 19ᵗʰ centuries when they were more heavily-hopped versions of stronger export stouts. Guinness Foreign Extra Stout (originally, West India Porter, later Foreign Extra Double Stout) was first brewed in 1801 according to Guinness with “extra hops to give it a distinctive taste and a longer shelf life in hot weather, this is brewed [today] in Africa, Asia and the Caribbean. It [currently] makes up 40% of all the Guinness brewed around the world.” ",
 				characteristic_ingredients:
 					"Pale and dark roasted malts and grains, historically also could have used brown and amber malts. Hops mostly for bitterness, typically English varieties. May use adjuncts and sugar to boost gravity.",
 				style_comparison:
@@ -2861,7 +2863,7 @@ export default [
 				mouthfeel:
 					"Medium to medium-full body. Medium to high carbonation. Overall smooth finish without astringency. Stronger versions may have a slight alcohol warmth.",
 				comments:
-					"Can overlap in color with darker American pale ales, but with a different malt flavor and balance. Regional variations exist with some being fairly mainstream and others being quite aggressive in hopping. Stronger and more bitter versions are now split into the Red IPA style.",
+					"Can overlap in color with darker American pale ales, but with a different malt flavor and balance. Regional variations exist with some being fairly mainstream and others being quite aggressive in hopping. Stronger and more bitter versions are now split into the _Red IPA_ style.",
 				history:
 					"A modern American craft beer style developed as a variation from American Pale Ales. Known simply as Red Ales in some regions, these beers were popularized in the hop-loving Northern California and the Pacific Northwest areas before spreading nationwide.",
 				characteristic_ingredients:
@@ -2952,9 +2954,9 @@ export default [
 				mouthfeel:
 					"Medium to medium-full body. More bitter versions may have a dry, resiny impression. Moderate to moderately-high carbonation.",
 				comments:
-					"Most commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. These IPA-strength brown ales should be entered in the Specialty IPA as Brown IPAs.",
+					"Most commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. These IPA-strength brown ales should be entered in the _Specialty IPA_ as Brown IPAs.",
 				history:
-					"An American style from the modern craft beer era. Derived from English Brown Ales, but with more hops. Pete’s Wicked Ale was one of the first and best known examples, and inspired many imitations. Popular with homebrewers, where very hoppy versions were sometimes called Texas Brown Ales (this is now more appropriately a Brown IPA).",
+					"An American style from the modern craft beer era. Derived from English Brown Ales, but with more hops. Pete’s Wicked Ale was one of the first and best known examples, and inspired many imitations. Popular with homebrewers, where very hoppy versions were sometimes called _Texas Brown Ales_ (this is now more appropriately a Brown IPA).",
 				characteristic_ingredients:
 					"Well-modified pale malt, plus crystal and darker malts (typically chocolate). American hops are typical, but continental or New World hops can also be used. ",
 				style_comparison:
@@ -3104,7 +3106,7 @@ export default [
 				mouthfeel:
 					"Full to very full-bodied and chewy, with a velvety, luscious texture (although the body may decline with long conditioning). Gentle smooth warmth from alcohol should be present and noticeable, but not a primary characteristic; in well-conditioned versions, the alcohol can be deceptive. Should not be syrupy or under-attenuated. Carbonation may be low to moderate, depending on age and conditioning.",
 				comments:
-					"Traditionally an English style, but it is currently much more popular and widely available in America where it is a craft beer favorite, not a curiosity. Variations exist, with English and American interpretations (predictably, the American versions have more bitterness, roasted character, and finishing hops, while the English varieties reflect a more complex specialty malt character and a more forward ester profile). Not all Imperial Stouts have a clearly ‘English’ or ‘American’ character; anything in between the two variants are allowable as well, which is why it is counter-productive to designate a sub-type when entering a competition. The wide range of allowable characteristics allow for maximum brewer creativity. Judges must be aware of the broad range of the style, and not try to judge all examples as clones of a specific commercial beer.",
+					"_Traditionally an English style, but it is currently much more popular and widely available in America where it is a craft beer favorite, not a curiosity_. Variations exist, with English and American interpretations (predictably, the American versions have more bitterness, roasted character, and finishing hops, while the English varieties reflect a more complex specialty malt character and a more forward ester profile). Not all Imperial Stouts have a clearly ‘English’ or ‘American’ character; anything in between the two variants are allowable as well, which is why it is counter-productive to designate a sub-type when entering a competition. The wide range of allowable characteristics allow for maximum brewer creativity. Judges must be aware of the broad range of the style, and not try to judge all examples as clones of a specific commercial beer.",
 				history:
 					"A style with a long, although not necessarily continuous, heritage. Traces roots to strong English porters brewed for export in the 1700s, and said to have been popular with the Russian Imperial Court. After the Napoleonic wars interrupted trade, these beers were increasingly sold in England. The style eventually all but died out, until being popularly embraced in the modern craft beer era, both in England as a revival and in the United States as a reinterpretation or re-imagination by extending the style with American characteristics. ",
 				characteristic_ingredients:
@@ -3214,7 +3216,7 @@ export default [
 				mouthfeel:
 					"Smooth, medium-light to medium-bodied mouthfeel. Medium carbonation. Some smooth alcohol warming can be sensed in stronger versions. ",
 				entry_instructions:
-					"Entrant **must** specify a **strength** (session, standard, double); if no strength is specified, standard will be assumed. Entrant **must** specify specific **type** of Specialty IPA from the library of known types listed in the Style Guidelines, or as amended by the BJCP web site; or the entrant must describe the type of Specialty IPA and its key characteristics in comment form so judges will know what to expect. Entrants **may** specify specific **hop varieties** used, if entrants feel that judges may not recognize the varietal characteristics of newer hops. _Entrants may specify a combination of defined IPA types (e.g., Black Rye IPA) without providing additional descriptions_. Entrants may use this category for a different strength version of an IPA defined by its own BJCP subcategory (e.g., session-strength American or English IPA) – except where an existing BJCP subcategory already exists for that style (e.g., double [American] IPA).",
+					"Entrant **must** specify a _strength_ (session, standard, double); if no strength is specified, standard will be assumed. Entrant **must** specify specific _type_ of Specialty IPA from the library of known types listed in the Style Guidelines, or as amended by the BJCP web site; or the entrant must describe the type of Specialty IPA and its key characteristics in comment form so judges will know what to expect. Entrants **may** specify specific _hop varieties_ used, if entrants feel that judges may not recognize the varietal characteristics of newer hops. _Entrants may specify a combination of defined IPA types (e.g., Black Rye IPA) without providing additional descriptions_. Entrants may use this category for a different strength version of an IPA defined by its own BJCP subcategory (e.g., session-strength American or English IPA) – except where an existing BJCP subcategory already exists for that style (e.g., double [American] IPA).",
 				currently_defined_types: [
 					"Black IPA",
 					"Brown IPA",
@@ -3714,21 +3716,21 @@ export default [
 				name: "Berliner Weisse",
 				id: "23A",
 				overall_impression:
-					"A very pale, refreshing, low-alcohol German wheat beer with a clean lactic sourness and a very high carbonation level. A light bread dough malt flavor supports the sourness, which shouldn’t seem artificial. Any Brettanomyces funk is restrained.",
+					"A very pale, refreshing, low-alcohol German wheat beer with a clean lactic sourness and a very high carbonation level. A light bread dough malt flavor supports the sourness, which shouldn’t seem artificial. Any _Brettanomyces_ funk is restrained.",
 				aroma:
-					"A sharply sour character is dominant (moderate to moderately-high). Can have up to a moderately fruity character (often lemony or tart apple). The fruitiness may increase with age and a light flowery character may develop. No hop aroma. The wheat may present as uncooked bread dough in fresher versions; combined with the acidity, may suggest sourdough bread. May optionally have a restrained funky Brettanomyces character.",
+					"A sharply sour character is dominant (moderate to moderately-high). Can have up to a moderately fruity character (often lemony or tart apple). The fruitiness may increase with age and a light flowery character may develop. No hop aroma. The wheat may present as uncooked bread dough in fresher versions; combined with the acidity, may suggest sourdough bread. May optionally have a restrained funky _Brettanomyces_ character.",
 				appearance:
 					"Very pale straw in color. Clarity ranges from clear to somewhat hazy. Large, dense, white head with poor retention. Always effervescent.",
 				flavor:
-					"Clean lactic sourness dominates and can be quite strong. Some complementary doughy, bready or grainy wheat flavor is generally noticeable. Hop bitterness is undetectable; sourness provides the balance rather than hops. Never vinegary. A restrained citrusy-lemony or tart apple fruitiness may be detected. Very dry finish. Balance dominated by sourness, but some malt flavor should be present. No hop flavor. May optionally have a restrained funky Brettanomyces character. ",
+					"Clean lactic sourness dominates and can be quite strong. Some complementary doughy, bready or grainy wheat flavor is generally noticeable. Hop bitterness is undetectable; sourness provides the balance rather than hops. Never vinegary. A restrained citrusy-lemony or tart apple fruitiness may be detected. Very dry finish. Balance dominated by sourness, but some malt flavor should be present. No hop flavor. May optionally have a restrained funky _Brettanomyces_ character. ",
 				mouthfeel:
 					"Light body. Very high carbonation. No sensation of alcohol. Crisp, juicy acidity.",
 				comments:
-					"In Germany, it is classified as a Schankbier denoting a small beer of starting gravity in the range 7-8 °P. Often served with the addition of a shot of sugar syrups (mit schuss) flavored with raspberry (himbeer), woodruff (waldmeister), or Caraway schnapps (Kümmel) to counter the substantial sourness. Has been described by some as the most purely refreshing beer in the world.",
+					"In Germany, it is classified as a _Schankbier_ denoting a small beer of starting gravity in the range 7-8 °P. Often served with the addition of a shot of sugar syrups (_mit schuss_) flavored with raspberry (_himbeer_), woodruff (_waldmeister_), or Caraway schnapps (_Kümmel_) to counter the substantial sourness. Has been described by some as the most purely refreshing beer in the world.",
 				history:
 					"A regional specialty of Berlin; referred to by Napoleon's troops in 1809 as “the Champagne of the North” due to its lively and elegant character. At one point, it was smoked and there used to be Märzen-strength (14 °P) version. Increasingly rare in German, but some American craft breweries now regularly produce the style.",
 				characteristic_ingredients:
-					"Wheat malt content is typically 50% of the grist (as is tradition with all German wheat beers) with the remainder typically being Pilsner malt. A symbiotic fermentation with top-fermenting yeast and Lactobacillus (various strains) provides the sharp sourness, which may be enhanced by blending of beers of different ages during fermentation and by extended cool aging. Hop bitterness is non-existent. Decoction mashing with mash hopping is traditional. German brewing scientists believe that Brettanomyces is essential to get the correct flavor profile, but this character is never strong.",
+					"Wheat malt content is typically 50% of the grist (as is tradition with all German wheat beers) with the remainder typically being Pilsner malt. A symbiotic fermentation with top-fermenting yeast and _Lactobacillus_ (various strains) provides the sharp sourness, which may be enhanced by blending of beers of different ages during fermentation and by extended cool aging. Hop bitterness is non-existent. Decoction mashing with mash hopping is traditional. German brewing scientists believe that _Brettanomyces_ is essential to get the correct flavor profile, but this character is never strong.",
 				style_comparison:
 					"Compared to a lambic, is generally not as acidic and has a clean lactic sourness with restrained to below sensory threshold funk. Also lower in alcohol content.",
 				vital_statistics: {
@@ -3815,7 +3817,7 @@ export default [
 				mouthfeel:
 					"Medium to medium-full body. Low to moderate carbonation. No astringency.",
 				comments:
-					"Long aging and blending of young and aged beer may occur, adding smoothness and complexity and balancing any harsh, sour character. This style was designed to lay down so examples with a moderate aged character are considered superior to younger examples. As in fruit lambics, Oud Bruin can be used as a base for fruit-flavored beers such as kriek (cherries) or frambozen (raspberries), though these should be entered in the Classic-Style Fruit Beer category. ",
+					"Long aging and blending of young and aged beer may occur, adding smoothness and complexity and balancing any harsh, sour character. This style was designed to lay down so examples with a moderate aged character are considered superior to younger examples. As in fruit lambics, Oud Bruin can be used as a base for fruit-flavored beers such as _kriek_ (cherries) or _frambozen_ (raspberries), though these should be entered in the _Classic-Style Fruit Beer_ category. ",
 				history:
 					"An “old ale” tradition, indigenous to East Flanders, typified by the products of the Liefman brewery (now owned by Riva), which has roots back to the 1600s. Historically brewed as a “provision beer” that would develop some sourness as it aged. These beers were typically more sour than current commercial examples. While Flanders red beers are aged in oak, the brown beers are warm aged in stainless steel.",
 				characteristic_ingredients:
@@ -3866,7 +3868,7 @@ export default [
 				history:
 					"Spontaneously fermented wild ales from the area in and around Brussels (the Senne Valley) stem from a farmhouse brewing tradition several centuries old. The number of producers is constantly dwindling.",
 				characteristic_ingredients:
-					"Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are neutral with little oak character, so don’t expect a fresh or forward oak character – more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
+					"Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are neutral with little oak character, so don’t expect a fresh or forward oak character – more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including _Saccharomyces_, _Brettanomyces_, _Pediococcus_ and _Lactobacillus_ in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.",
 				style_comparison:
 					"Generally has a more simple sourness and complexity than a gueuze. Traditionally served uncarbonated from pitchers, while gueuze is bottled and very highly carbonated. ",
 				vital_statistics: {
@@ -3953,7 +3955,7 @@ export default [
 				mouthfeel:
 					"Light to medium-light body. In spite of the low finishing gravity, the many mouth-filling flavors prevent the beer from tasting like water. Has a low to high tart, puckering quality without being sharply astringent. Some versions have a light warming character. Carbonation can vary from sparkling to nearly still (must be specified).",
 				comments:
-					"Fruit-based lambics are often produced like gueuze by mixing one, two, and three-year old lambic. “Young” lambic contains fermentable sugars while old lambic has the characteristic “wild” taste of the Senne River valley. Fruit is commonly added halfway through aging and the yeast and bacteria will ferment all sugars from the fruit. Fruit may also be added to unblended lambic. The most traditional styles of fruit lambics include kriek (cherries), framboise (raspberries) and druivenlambik (muscat grapes). IBUs are approximate since aged hops are used; Belgians use hops for anti-bacterial properties more than bittering in lambics.",
+					"Fruit-based lambics are often produced like gueuze by mixing one, two, and three-year old lambic. “Young” lambic contains fermentable sugars while old lambic has the characteristic “wild” taste of the Senne River valley. Fruit is commonly added halfway through aging and the yeast and bacteria will ferment all sugars from the fruit. Fruit may also be added to unblended lambic. The most traditional styles of fruit lambics include _kriek_ (cherries), _framboise_ (raspberries) and _druivenlambik_ (muscat grapes). IBUs are approximate since aged hops are used; Belgians use hops for anti-bacterial properties more than bittering in lambics.",
 				history:
 					"Spontaneously fermented wild ales from the area in and around Brussels (the Senne Valley) stem from a farmhouse brewing and blending tradition several centuries old. The number of producers is constantly dwindling and some are untraditionally sweetening their products (post-fermentation) with sugar or sweet fruit to make them more palatable to a wider audience. Fruit was traditionally added to lambic or gueuze, either by the blender or publican, to increase the variety of beers available in local cafes.",
 				characteristic_ingredients:
@@ -4111,7 +4113,7 @@ export default [
 				mouthfeel:
 					"Medium to medium-light (lean) body, often with a smooth, creamy-silky character. Moderate to high carbonation. Moderate alcohol warming, but should be very smooth and never hot.",
 				comments:
-					"Three main variations are included in the style: the brown (brune), the blond (blonde), and the amber (ambrée). The darker versions will have more malt character, while the paler versions can have more hops (but still are malt-focused beers). A related style is Bière de Mars, which is brewed in March (Mars) for present use and will not age as well. Attenuation rates are in the 80-85% range. Some fuller-bodied examples exist, but these are somewhat rare. Age and oxidation in imports often increases fruitiness, caramel flavors, and adds corked and musty notes; these are all signs of mishandling, not characteristic elements of the style.",
+					"Three main variations are included in the style: the **brown** (_brune_), the **blond** (_blonde_), and the **amber** (_ambrée_). The darker versions will have more malt character, while the paler versions can have more hops (but still are malt-focused beers). A related style is Bière de Mars, which is brewed in March (Mars) for present use and will not age as well. Attenuation rates are in the 80-85% range. Some fuller-bodied examples exist, but these are somewhat rare. Age and oxidation in imports often increases fruitiness, caramel flavors, and adds corked and musty notes; these are all signs of mishandling, not characteristic elements of the style.",
 				history:
 					"Name literally means “beer which has been kept or lagered.” A traditional artisanal ale from Northern France brewed in early spring and kept in cold cellars for consumption in warmer weather. It is now brewed year-round. ",
 				characteristic_ingredients:
@@ -4119,7 +4121,7 @@ export default [
 				style_comparison:
 					"Related to the Belgian Saison style, the main difference is that the Bière de Garde is rounder, richer, malt-focused, and lacks the spicy, bitter character of a Saison.",
 				entry_instructions:
-					"Entrant **must** specify _blond, amber, or brown_ bière de garde. If no color is specified, the judge should attempt to judge based on initial observation, expecting a malt flavor and balance that matches the color.",
+					"Entrant **must** specify _blond_, _amber_, or _brown_ bière de garde. If no color is specified, the judge should attempt to judge based on initial observation, expecting a malt flavor and balance that matches the color.",
 				vital_statistics: {
 					original_extract: { min: 14.7, max: 19.3 },
 					terminal_extract: { min: 2, max: 4.1 },
@@ -4169,7 +4171,7 @@ export default [
 				mouthfeel:
 					"Medium-high to high carbonation, can give mouth-filling bubbly sensation. Medium body. Light to moderate alcohol warmth, but smooth. Can be somewhat creamy.",
 				comments:
-					"Often has an almost lager-like character, which gives it a cleaner profile in comparison to many other Belgian styles. Belgians use the term Blond, while the French spell it Blonde. Most commercial examples are in the 6.5 – 7% ABV range. Many Trappist or artisanal Belgian beers are called Blond but those are not representative of this style.",
+					"Often has an almost lager-like character, which gives it a cleaner profile in comparison to many other Belgian styles. Belgians use the term _Blond_, while the French spell it _Blonde_. Most commercial examples are in the 6.5 – 7% ABV range. Many Trappist or artisanal Belgian beers are called _Blond_ but those are not representative of this style.",
 				history:
 					"Relatively recent development to further appeal to European Pils drinkers, becoming more popular as it is heavily marketed and widely distributed.",
 				characteristic_ingredients:
@@ -4213,7 +4215,7 @@ export default [
 				mouthfeel:
 					"Light to medium body. Alcohol sensation varies with strength, from none in table version to light in standard versions, to moderate in super versions. However, any warming character should be fairly low. Very high carbonation with an effervescent quality. There is enough prickly acidity on the tongue to balance the very dry finish. In versions with sourness, a low to moderate tart character can add a refreshing bite, but not be puckering (optional). ",
 				comments:
-					"Variations exist in strength and color, but they all have similar characteristics and balance, in particularly the refreshing, highly-attenuated, dry character with high carbonation. There is no correlation between strength and color. The balance can change somewhat with strength and color variations, but the family resemblance to the original artisanal ale should be evident. Pale versions are likely to be more bitter and have more hop character, while darker versions tend to have more malt character and sweetness, yielding a more balanced presentations. Stronger versions often will have more malt flavor, richness, and body simply due to their higher gravity. Although they tend to be very well-attenuated, they may not be perceived to be as dry as standard-strength saisons due to their strength. The Saison yeast character is a must, although maltier and richer versions will tend to mask this character more. Often called Farmhouse ales in the US, but this term is not common in Europe where they are simply part of a larger grouping of artisanal ales. ",
+					"Variations exist in strength and color, but they all have similar characteristics and balance, in particularly the refreshing, highly-attenuated, dry character with high carbonation. There is no correlation between strength and color. The balance can change somewhat with strength and color variations, but the family resemblance to the original artisanal ale should be evident. Pale versions are likely to be more bitter and have more hop character, while darker versions tend to have more malt character and sweetness, yielding a more balanced presentations. Stronger versions often will have more malt flavor, richness, and body simply due to their higher gravity. Although they tend to be very well-attenuated, they may not be perceived to be as dry as standard-strength saisons due to their strength. The Saison yeast character is a must, although maltier and richer versions will tend to mask this character more. Often called _Farmhouse ales_ in the US, but this term is not common in Europe where they are simply part of a larger grouping of _artisanal ales_. ",
 				history:
 					"A provision ale originally brewed in Wallonia, the French-speaking part of Belgium, for consumption during the active farming season. Originally a lower-alcohol product so as to not debilitate field workers, but tavern-strength products also existed. Higher-strength and different-colored products appeared after WWII. The best known modern saison, Saison Dupont, was first produced in the 1920s. Originally a rustic, artisanal ale made with local farm-produced ingredients, it is now brewed mostly in larger breweries yet retains the image of its humble origins.",
 				characteristic_ingredients:
@@ -4271,7 +4273,7 @@ export default [
 				mouthfeel:
 					"Very highly carbonated; effervescent. Light to medium body, although lighter than the substantial gravity would suggest. Smooth but noticeable alcohol warmth. No hot alcohol or solventy character. ",
 				comments:
-					"References to the devil are included in the names of many commercial examples of this style, referring to their potent alcoholic strength and as a tribute to the original example (Duvel). The best examples are complex and delicate. High carbonation helps to bring out the many flavors and to increase the perception of a dry finish. Traditionally bottle-conditioned (or refermented in the bottle).",
+					"References to the devil are included in the names of many commercial examples of this style, referring to their potent alcoholic strength and as a tribute to the original example (Duvel). The best examples are complex and delicate. High carbonation helps to bring out the many flavors and to increase the perception of a dry finish. Traditionally bottle-conditioned (or _refermented in the bottle_).",
 				history:
 					"Originally developed by the Moortgat brewery after WWI as a response to the growing popularity of Pilsner beers.",
 				characteristic_ingredients:
@@ -4370,7 +4372,7 @@ export default [
 				mouthfeel:
 					"Medium-full body. Medium-high carbonation, which can influence the perception of body. Low alcohol warmth. Smooth, never hot or solventy.",
 				comments:
-					"Most commercial examples are in the 6.5 – 7% ABV range. Traditionally bottle-conditioned (or refermented in the bottle).",
+					"Most commercial examples are in the 6.5 – 7% ABV range. Traditionally bottle-conditioned (or _refermented in the bottle_).",
 				history:
 					"Originated at monasteries in the Middle Ages, and was revived in the mid-1800s after the Napoleonic era.",
 				characteristic_ingredients:
@@ -4417,7 +4419,7 @@ export default [
 				mouthfeel:
 					"Medium-light to medium body, although lighter than the substantial gravity would suggest. Highly carbonated. The alcohol content is deceptive, and has little to no obvious warming sensation. Always effervescent.",
 				comments:
-					"High in alcohol but does not taste strongly of alcohol. The best examples are sneaky, not obvious. High carbonation and attenuation helps to bring out the many flavors and to increase the perception of a dry finish. Most Trappist versions have at least 30 IBUs and are very dry. Traditionally bottle-conditioned (or refermented in the bottle).",
+					"High in alcohol but does not taste strongly of alcohol. The best examples are sneaky, not obvious. High carbonation and attenuation helps to bring out the many flavors and to increase the perception of a dry finish. Most Trappist versions have at least 30 IBUs and are very dry. Traditionally bottle-conditioned (or _refermented in the bottle_).",
 				history:
 					"Originally popularized by the Trappist monastery at Westmalle.",
 				characteristic_ingredients:
@@ -4465,7 +4467,7 @@ export default [
 				mouthfeel:
 					"High carbonation but not sharp. Smooth but noticeable alcohol warmth. Body can range from medium-light to medium-full and creamy. Most are medium-bodied.",
 				comments:
-					"Authentic Trappist versions tend to be drier (Belgians would say more digestible) than Abbey versions, which can be rather sweet and full-bodied. Traditionally bottle-conditioned (or refermented in the bottle). Sometimes known as a Trappist Quadruple, most are simply known by their strength or color designation.",
+					"Authentic Trappist versions tend to be drier (Belgians would say _more digestible_) than Abbey versions, which can be rather sweet and full-bodied. Traditionally bottle-conditioned (or _refermented in the bottle_). Sometimes known as a Trappist Quadruple, most are simply known by their strength or color designation.",
 				history:
 					"Most versions are unique in character reflecting characteristics of individual breweries, produced in limited quantities and often highly sought-after.",
 				characteristic_ingredients:
@@ -4503,7 +4505,9 @@ export default [
 		name: "Historical Beer",
 		id: "27",
 		notes:
-			"The Historical Beer category contains styles that either have all but died out in modern times, or that were much more popular in past times and are known only through recreations. This category can also be used for traditional or indigenous beers of cultural importance within certain countries. Placing a beer in the historical category does not imply that it is not currently being produced, just that it is a very minor style or perhaps is in the process of rediscovery by craft brewers.\n\n**Entry Instructions:** The entrant must either specify a style with a BJCP-supplied description from the list below, or specify a different historical beer style that is not described elsewhere in these guidelines. In the case of a style that has changed substantially over the years (such as Porter or Stout), the entrant may specify an existing BJCP style as well as an era (e.g., 1820 English Porter). When the entrant specifies any style not on the BJCP-supplied list, the entrant must provide a description of the style for the judges in sufficient detail to allow the beer to be judged. If a beer is entered with just a style name and no description, it is very unlikely that judges will understand how to judge it. Currently defined examples: Gose, Piwo Grodziskie, Lichtenhainer, Roggenbier, Sahti, Kentucky Common, Pre-Prohibition Lager, Pre-Prohibition Porter, London Brown Ale.",
+			"The Historical Beer category contains styles that either have all but died out in modern times, or that were much more popular in past times and are known only through recreations. This category can also be used for traditional or indigenous beers of cultural importance within certain countries. Placing a beer in the historical category does not imply that it is not currently being produced, just that it is a very minor style or perhaps is in the process of rediscovery by craft brewers.",
+		entry_instructions:
+			"The entrant must either specify a style with a BJCP-supplied description from the list below, or specify a different historical beer style that is not described elsewhere in these guidelines. In the case of a style that has changed substantially over the years (such as Porter or Stout), the entrant may specify an existing BJCP style as well as an era (e.g., 1820 English Porter). When the entrant specifies any style not on the BJCP-supplied list, the entrant must provide a description of the style for the judges in sufficient detail to allow the beer to be judged. If a beer is entered with just a style name and no description, it is very unlikely that judges will understand how to judge it. Currently defined examples: _Gose_, _Piwo Grodziskie_, _Lichtenhainer_, _Roggenbier_, _Sahti_, _Kentucky Common_, _Pre-Prohibition Lager_, _Pre-Prohibition Porter_, _London Brown Ale_.",
 		styles: [
 			{
 				name: "Gose",
@@ -4518,7 +4522,7 @@ export default [
 				mouthfeel:
 					"High to very high carbonation, effervescent. Medium-light to medium-full body. Salt may give a slightly tingly, mouthwatering quality, if perceived at all. The yeast and wheat can give it a little body, but it shouldn’t have a heavy feel.",
 				comments:
-					"Served in traditional cylindrical glasses. Historical versions may have been more sour than modern examples due to spontaneous fermentation, and may be blended with syrups as is done with Berliner Weisse, or Kümmel, a liqueur flavored with caraway, cumin, and fennel. Modern examples are inoculated with lactobacillus, and are more balanced and generally don’t need sweetening. Pronounced GOH-zeh.",
+					"Served in traditional cylindrical glasses. Historical versions may have been more sour than modern examples due to spontaneous fermentation, and may be blended with syrups as is done with Berliner Weisse, or _Kümmel_, a liqueur flavored with caraway, cumin, and fennel. Modern examples are inoculated with lactobacillus, and are more balanced and generally don’t need sweetening. Pronounced _GOH-zeh_.",
 				history:
 					"Minor style associated with Leipzig but originating in the Middle Ages in the town of Goslar on the Gose River. Documented to have been in Leipzig by 1740. Leipzig was said to have 80 Gose houses in 1900. Production declined significantly after WWII, and ceased entirely in 1966. Modern production was revived in the 1980s, but the beer is not widely available. ",
 				characteristic_ingredients:
@@ -4561,9 +4565,9 @@ export default [
 				mouthfeel:
 					"Medium to medium-light body with a relatively soft mouthfeel. Highly carbonated. Can have a creamy texture.",
 				comments:
-					"Modern characterizations of the style often mention a lactic sourness or sour mashing, but extensive brewing records from the larger breweries at the turn of the century have no indication of long acid rests, sour mashing, or extensive conditioning. This is likely a modern homebrewer invention, based on the supposition that since indigenous Bourbon distillers used a sour mash, beer brewers must also have used this process. No contemporaneous records indicate sour mashing or that the beer had a sour profile; rather the opposite, that the beer was brewed as an inexpensive, present-use ale. Enter soured versions in American Wild Ale.",
+					"Modern characterizations of the style often mention a lactic sourness or sour mashing, but extensive brewing records from the larger breweries at the turn of the century have no indication of long acid rests, sour mashing, or extensive conditioning. This is likely a modern homebrewer invention, based on the supposition that since indigenous Bourbon distillers used a sour mash, beer brewers must also have used this process. No contemporaneous records indicate sour mashing or that the beer had a sour profile; rather the opposite, that the beer was brewed as an inexpensive, present-use ale. Enter soured versions in _American Wild Ale_.",
 				history:
-					"A true American original style, Kentucky Common was almost exclusively produced and sold around the Louisville Kentucky metropolitan area from some time after the Civil War up to Prohibition. Its hallmark was that it was inexpensive and quickly produced, typically 6 to 8 days from mash to delivery. The beer was racked into barrels while actively fermenting (1.020 – 1.022) and tightly bunged to allow carbonation in the saloon cellar. There is some speculation that it was a variant of the lighter common or cream ale produced throughout much of the East prior to the Civil War and that the darker grains were added by the mostly Germanic brewers to help acidify the typical carbonate water of the Louisville area, or that they had a preference for darker colored beers. Up until the late 19th century, Kentucky Common was not brewed in the summer months unless cellars, usually used for malting, were used for fermentation. With the advent of ice machines, the larger breweries were able to brew year round. In the period from 1900 to prohibition, about 75% of the beer sold in the Louisville area was Kentucky Common. With prohibition, the style died completely as the few larger breweries that survived were almost exclusively lager producers.",
+					"A true American original style, Kentucky Common was almost exclusively produced and sold around the Louisville Kentucky metropolitan area from some time after the Civil War up to Prohibition. Its hallmark was that it was inexpensive and quickly produced, typically 6 to 8 days from mash to delivery. The beer was racked into barrels while actively fermenting (1.020 – 1.022) and tightly bunged to allow carbonation in the saloon cellar. There is some speculation that it was a variant of the lighter common or cream ale produced throughout much of the East prior to the Civil War and that the darker grains were added by the mostly Germanic brewers to help acidify the typical carbonate water of the Louisville area, or that they had a preference for darker colored beers. Up until the late 19ᵗʰ century, Kentucky Common was not brewed in the summer months unless cellars, usually used for malting, were used for fermentation. With the advent of ice machines, the larger breweries were able to brew year round. In the period from 1900 to prohibition, about 75% of the beer sold in the Louisville area was Kentucky Common. With prohibition, the style died completely as the few larger breweries that survived were almost exclusively lager producers.",
 				characteristic_ingredients:
 					"Six-row barley malt was used with 35% corn grits to dilute the excessive protein levels along with 1 to 2% each caramel and black malt. Native American hops, usually about .2 pounds per barrel of Western hops for bittering and a similar amount of New York hops (such as Clusters) for flavor (15 minutes prior to knock out). Imported continental Saazer-type hops (.1 pounds per barrel) were added at knock out for aroma. Water in the Louisville area was typically moderate to high in carbonates. Mash water was often pre-boiled to precipitate the carbonate and Gypsum was commonly added. Considering the time from mash in to kegging for delivery was typically 6 to 8 days, clearly aggressive top-fermenting yeasts was used.",
 				style_comparison:
@@ -4638,7 +4642,7 @@ export default [
 				comments:
 					"Increasingly rare; Mann’s has over 90% market share in Britain, but in an increasingly small segment. Always bottled. Frequently used as a sweet mixer with cask mild and bitter in pubs. Commercial versions can be pasteurized and back-sweetened, which gives more of a sugary-sweet flavor.",
 				history:
-					"Developed by Mann’s as a bottled product in 1902. Claimed at the time to be “the sweetest beer in London.” Pre-WWI versions were around 5% ABV, but same general balance. Declined in popularity in second half of 20th century, and now nearly extinct.",
+					"Developed by Mann’s as a bottled product in 1902. Claimed at the time to be “the sweetest beer in London.” Pre-WWI versions were around 5% ABV, but same general balance. Declined in popularity in second half of 20ᵗʰ century, and now nearly extinct.",
 				characteristic_ingredients:
 					"English pale ale malt as a base with a healthy proportion of darker caramel malts and often some roasted (black) malt and wheat malt (this is Mann’s traditional grist – others can rely on dark sugars for color and flavor). Moderate to high carbonate water. English hop varieties are most authentic, though with low flavor and bitterness almost any type could be used. Post-fermentation sweetening with lactose or artificial sweeteners, or sucrose (if pasteurized).",
 				style_comparison:
@@ -4680,7 +4684,7 @@ export default [
 				comments:
 					"Pronounced in English as “pivo grow-JEES-kee-uh” (meaning: Grodzisk beer). Known as Grätzer (pronounced “GRATE-sir”) in German-speaking countries, and in some beer literature. Traditionally made using a multi-step mash, a long boil (~2 hours), and multiple strains of ale yeast. The beer is never filtered but Isinglass is used to clarify before bottle conditioning. Traditionally served in tall conical glassware to accommodate the vigorous foam stand. ",
 				history:
-					"Developed as a unique style centuries ago in the Polish city of Grodzisk (known as Grätz when ruled by Prussia and Germany). Its fame and popularity rapidly extended to other parts of the world in the late 19th and early 20th century. Regular commercial production declined after WWII and ceased altogether in the early-mid 1990s. This style description describes the traditional version during its period of greatest popularity.",
+					"Developed as a unique style centuries ago in the Polish city of Grodzisk (known as Grätz when ruled by Prussia and Germany). Its fame and popularity rapidly extended to other parts of the world in the late 19ᵗʰ and early 20ᵗʰ century. Regular commercial production declined after WWII and ceased altogether in the early-mid 1990s. This style description describes the traditional version during its period of greatest popularity.",
 				characteristic_ingredients:
 					"Grain bill usually consists entirely of oak-smoked wheat malt. Oak-smoked wheat malt has a different (and less intense) smoke character than German beechwood-smoked barley malt; it has a drier, crisper, leaner quality – a bacon/ham smoke flavor is inappropriate. Saazer-type hops (Polish, Czech or German), moderate hardness sulfate water, and a relatively clean and attenuative continental ale yeast fermented at moderate ale temperatures are traditional. German hefeweizen yeast or other strains with a phenol or strong ester character are inappropriate.",
 				style_comparison:
@@ -4837,7 +4841,7 @@ export default [
 				comments:
 					"The use of rye doesn’t mean that it should taste like caraway (a dominant flavor in rye bread). The use of juniper berries will give a flavor like gin (similarly flavored with juniper berries). The juniper acts a bit like hops in the balance and flavor, providing some counterpoint to the sweet malt.",
 				history:
-					"An indigenous traditional style from Finland; a farmhouse tradition for at least 500 years, often brewed for festive occasions like summer weddings, and consumed within a week or two of brewing. A similar tradition exists in Estonia, where the beer is known as koduolu.",
+					"An indigenous traditional style from Finland; a farmhouse tradition for at least 500 years, often brewed for festive occasions like summer weddings, and consumed within a week or two of brewing. A similar tradition exists in Estonia, where the beer is known as )_koduolu_.",
 				characteristic_ingredients:
 					"Malted barley along with malted and unmalted grains, often rye. Low hops. Juniper boughs used for lautering (traditionally in a hollowed-out log), but often producing a juniper/berry character. Often uses top-fermenting baker’s yeast in a fast, warm fermentation (German Weizen yeast is a good substitute). Not boiled; a long mash steep is used, with a separately added hop tea.",
 				style_comparison:
@@ -4922,7 +4926,7 @@ export default [
 				history:
 					"Modern American craft beer interpretations of Belgian sour ales, or experimentations inspired by Belgian sour ales.",
 				characteristic_ingredients:
-					"Virtually any style of beer. Usually fermented by Lactobacillus and/or Pediococcus, often in conjunction with Saccharomyces and/or Brettanomyces. Can also be a blend of styles. Wood or barrel aging is very common, but not required.",
+					"Virtually any style of beer. Usually fermented by _Lactobacillus_ and/or _Pediococcus_, often in conjunction with _Saccharomyces_ and/or _Brettanomyces_. Can also be a blend of styles. Wood or barrel aging is very common, but not required.",
 				style_comparison: "A sour and/or funky version of a base style.",
 				entry_instructions:
 					"The entrant **must** specify a description of the beer, identifying the yeast/bacteria used and either a base style or the ingredients/specs/target character of the beer.",
@@ -4961,7 +4965,7 @@ export default [
 				history:
 					"Modern American craft beer interpretations of Belgian wild ales, or experimentations inspired by Belgian wild ales.",
 				characteristic_ingredients:
-					"Virtually any style of beer. Any combination of Saccharomyces, Brettanomyces, Lactobacillus, Pediococcus, or other similar fermenters. Can also be a blend of styles. While cherries, raspberries, and peaches are most common, other fruits can be used as well. Vegetables with fruit-like characteristics (chile, rhubarb, pumpkin, etc.) may also be used. Wood or barrel aging is very common, but not required.",
+					"Virtually any style of beer. Any combination of _Saccharomyces_, _Brettanomyces_, _Lactobacillus_, _Pediococcus_, or other similar fermenters. Can also be a blend of styles. While cherries, raspberries, and peaches are most common, other fruits can be used as well. Vegetables with fruit-like characteristics (chile, rhubarb, pumpkin, etc.) may also be used. Wood or barrel aging is very common, but not required.",
 				style_comparison:
 					"Like a fruit, herb, spice, or wood beer, but sour and/or funky.",
 				entry_instructions:
@@ -4995,7 +4999,7 @@ export default [
 				name: "Friut Beer",
 				id: "29A",
 				notes:
-					"See the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
+					"See the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
 				overall_impression:
 					"A harmonious marriage of fruit and beer, but still recognizable as a beer. The fruit character should be evident but in balance with the beer, not so forward as to suggest an artificial product.",
 				aroma:
@@ -5022,7 +5026,7 @@ export default [
 				name: "Fruit and Spice Beer",
 				id: "29B",
 				notes:
-					"See the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer. The definition of Fruit in the preamble to Category 29 and Spice in the preamble to Category 30 apply; any combination of ingredients valid in Styles 29A and 30A are allowable in this category. The use of the word spice does not imply only spices can be used; any Spice, Herb, or Vegetable (SHV) from Category 30 may be used.",
+					"See the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer. The definition of _Fruit_ in the preamble to Category 29 and Spice in the preamble to Category 30 apply; any combination of ingredients valid in Styles 29A and 30A are allowable in this category. The use of the word _spice_ does not imply only spices can be used; any Spice, Herb, or Vegetable (SHV) from Category 30 may be used.",
 				overall_impression:
 					"A harmonious marriage of fruit, spice, and beer, but still recognizable as a beer. The fruit and spice character should each be evident but in balance with the beer, not so forward as to suggest an artificial product.",
 				aroma:
@@ -5040,10 +5044,10 @@ export default [
 				tags: ["specialty-beer", "fruit", "spice"],
 			},
 			{
-				name: "Wild Specialty Beer",
+				name: "Specialty Fruit Beer",
 				id: "29C",
 				notes:
-					"A **Specialty Fruit Beer** is a fruit beer with some additional ingredients or processes, such as fermentable sugars (honey, brown sugar, invert sugar, etc.) added.\n\nSee the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
+					"A **Specialty Fruit Beer** is a fruit beer with some additional ingredients or processes, such as fermentable sugars (honey, brown sugar, invert sugar, etc.) added.\n\nSee the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
 				overall_impression:
 					"A harmonious marriage of fruit, sugar, and beer, but still recognizable as a beer. The fruit and sugar character should both be evident but in balance with the beer, not so forward as to suggest an artificial product.",
 				aroma:
@@ -5072,7 +5076,7 @@ export default [
 				name: "Spice, Herb or Vegetable Beer",
 				id: "30A",
 				notes:
-					"See the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
+					"See the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
 				overall_impression:
 					"A harmonious marriage of SHV and beer, but still recognizable as a beer. The SHV character should be evident but in balance with the beer, not so forward as to suggest an artificial product. ",
 				aroma:
@@ -5130,7 +5134,7 @@ export default [
 				name: "Winter Seasonal Beer",
 				id: "30C",
 				notes:
-					"**Winter Seasonal Beers** are beers that suggest cold weather and the Christmas holiday season, and may include holiday spices, specialty sugars, and other products that are reminiscent of mulling spices or Christmas holiday desserts. See the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
+					"**Winter Seasonal Beers** are beers that suggest cold weather and the Christmas holiday season, and may include holiday spices, specialty sugars, and other products that are reminiscent of mulling spices or Christmas holiday desserts. See the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
 				overall_impression:
 					"A stronger, darker, spiced beer that often has a rich body and warming finish suggesting a good accompaniment for the cold winter season.",
 				aroma:
@@ -5171,7 +5175,7 @@ export default [
 				name: "Alternative Grain Beer",
 				id: "31A",
 				notes:
-					"An **Alternative Fermentables Beer** is a standard beer (Classic Style or not) with additional or non-standard brewing grains (e.g., rye, oats, buckwheat, spelt, millet, sorghum, rice, etc.) added or used exclusively. Gluten-free (GF) beers made from completely gluten-free ingredients may be entered here, while GF beers using process-based gluten removal should be entered in their respective base style categories.\n\nSee the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
+					"An **Alternative Fermentables Beer** is a standard beer (Classic Style or not) with additional or non-standard brewing grains (e.g., rye, oats, buckwheat, spelt, millet, sorghum, rice, etc.) added or used exclusively. Gluten-free (GF) beers made from completely gluten-free ingredients may be entered here, while GF beers using process-based gluten removal should be entered in their respective base style categories.\n\nSee the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
 				overall_impression:
 					"A base beer enhanced by or featuring the character of additional grain or grains. The specific character depends greatly on the character of the added grains.",
 				aroma:
@@ -5197,7 +5201,7 @@ export default [
 				name: "Alternative Sugar Beer",
 				id: "31B",
 				notes:
-					"An **Alternative Fermentables Beer** is a standard beer (_Classic Style_ or not) with additional fermentable sugars (e.g., honey, brown sugar, invert sugar, molasses, treacle, maple syrup, sorghum, etc.) added.\n\nSee the Introduction to Specialty-Type Beer section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
+					"An **Alternative Fermentables Beer** is a standard beer (_Classic Style_ or not) with additional fermentable sugars (e.g., honey, brown sugar, invert sugar, molasses, treacle, maple syrup, sorghum, etc.) added.\n\nSee the _Introduction to Specialty-Type Beer_ section for additional comments, particularly on evaluating the balance of added ingredients with the base beer.",
 				overall_impression:
 					"A harmonious marriage of sugar and beer, but still recognizable as a beer. The sugar character should both be evident but in balance with the beer, not so forward as to suggest an artificial product.",
 				aroma:
@@ -5241,7 +5245,7 @@ export default [
 				mouthfeel:
 					"Varies with the base beer style. Significant astringent, phenolic smoke-derived harshness is inappropriate.",
 				comments:
-					"This style is for any beer that exhibits smoke as a principal flavor and aroma characteristic other than the Bamberg-style Rauchbier (i.e., beechwood-smoked Märzen), which has its own style. Any style of beer can be smoked; the goal is to reach a pleasant balance between the smoke character and the base beer style. Entries should be judged on how well that style is represented, and how well it is balanced with the smoke character. Entries with a specific type or types of smoke cited will be judged on how well that type of smoke is recognizable and marries with the base style. Judges should evaluate the beers mostly on the overall balance, and how well the smoke character enhances the base beer.",
+					"This style is for any beer that exhibits smoke as a principal flavor and aroma characteristic other than the Bamberg-style _Rauchbier_ (i.e., beechwood-smoked _Märzen_), which has its own style. Any style of beer can be smoked; the goal is to reach a pleasant balance between the smoke character and the base beer style. Entries should be judged on how well that style is represented, and how well it is balanced with the smoke character. Entries with a specific type or types of smoke cited will be judged on how well that type of smoke is recognizable and marries with the base style. Judges should evaluate the beers mostly on the overall balance, and how well the smoke character enhances the base beer.",
 				history:
 					"The process of using smoked malts has been adapted by craft brewers to many styles. German brewers have traditionally used smoked malts in bock, doppelbock, weissbier, dunkel, schwarzbier, helles, Pils, and other specialty styles.",
 				characteristic_ingredients:
@@ -5304,7 +5308,7 @@ export default [
 				mouthfeel:
 					"Varies with base style. Wood can add tannins to the beer, depending on age of the cask. The tannins can lead to additional astringency (which should never be high), or simply a fuller mouthfeel. Tart or acidic characteristics should be low to none, and never distracting.",
 				comments:
-					"The base beer style should be apparent. The wood-based character should be evident, but not so dominant as to unbalance the beer. The intensity of the wood-based flavors is based on the contact time with the wood; the age, condition, and origin and char level of the barrel; and the type of wood. THIS CATEGORY SHOULD NOT BE USED FOR BASE STYLES WHERE WOOD-AGING IS A FUNDAMENTAL REQUIREMENT FOR THE STYLE (e.g., Flanders Red, Lambic, etc.). Beers made using either limited wood aging or products that only provide a subtle background character may be entered in the base beer style categories as long as the wood character isn’t prominently featured.",
+					"The base beer style should be apparent. The wood-based character should be evident, but not so dominant as to unbalance the beer. The intensity of the wood-based flavors is based on the contact time with the wood; the age, condition, and origin and char level of the barrel; and the type of wood. THIS CATEGORY SHOULD NOT BE USED FOR BASE STYLES WHERE WOOD-AGING IS A FUNDAMENTAL REQUIREMENT FOR THE STYLE (e.g., Flanders Red, Lambic, etc.). _Beers made using either limited wood aging or products that only provide a subtle background character may be entered in the base beer style categories as long as the wood character isn’t prominently featured_.",
 				history:
 					"A traditional production method that is rarely used by major breweries, and usually only with specialty products. More popular with modern American craft breweries looking for new, distinctive products. Oak cask and barrels are traditional, although other woods are becoming more popular.",
 				characteristic_ingredients:
@@ -5340,7 +5344,7 @@ export default [
 				history:
 					"A traditional production method that is rarely used by major breweries, and usually only with specialty products. Quite popular with modern American craft breweries looking for new, distinctive products. Oak cask and barrels are traditional, although other woods can be used.",
 				comments:
-					"The base beer style should be apparent. The wood-based character should be evident, but not so dominant as to unbalance the beer. The intensity of the wood-based flavors is based on the contact time with the wood; the age, condition, previous usage of the barrel; and the type of wood. Alcoholic products previously stored in the wood should be evident, but should not be so dominant as to unbalance the beer. THIS CATEGORY SHOULD NOT BE USED FOR BASE STYLES WHERE BARREL-AGING IS A FUNDAMENTAL REQUIREMENT FOR THE STYLE (e.g., Flanders Red, Lambic, etc.). Special wood-aged wild ales should be entered in the Wild Specialty style.",
+					"The base beer style should be apparent. The wood-based character should be evident, but not so dominant as to unbalance the beer. The intensity of the wood-based flavors is based on the contact time with the wood; the age, condition, previous usage of the barrel; and the type of wood. Alcoholic products previously stored in the wood should be evident, but should not be so dominant as to unbalance the beer. THIS CATEGORY SHOULD NOT BE USED FOR BASE STYLES WHERE BARREL-AGING IS A FUNDAMENTAL REQUIREMENT FOR THE STYLE (e.g., Flanders Red, Lambic, etc.). Special wood-aged wild ales should be entered in the _Wild Specialty_ style.",
 				characteristic_ingredients:
 					"Varies with base style. Aged in wooden casks or barrels previously used to store alcohol (e.g., whiskey, bourbon, port, sherry, Madeira, wine, etc). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.",
 				entry_instructions:
@@ -5361,7 +5365,7 @@ export default [
 				name: "Clone Beer",
 				id: "34A",
 				notes:
-					"This style is intended for reproductions of specific commercial beers that aren’t good representations of existing styles. The use of the word clone does **not** imply _an exact copy_; it implies an interpretation of a style represented by a specific beer that does not have a defined style within the guidelines. The beer should be judged as to how well it fits the broader style represented by the example beer, not how well it is an exact copy of a specific commercial product. If a ‘clone beer’ does fit another style, do not enter it here.",
+					"This style is intended for reproductions of specific commercial beers that aren’t good representations of existing styles. The use of the word _clone_ does **not** imply _an exact copy_; it implies an interpretation of a style represented by a specific beer that does not have a defined style within the guidelines. The beer should be judged as to how well it fits the broader style represented by the example beer, not how well it is an exact copy of a specific commercial product. If a ‘clone beer’ does fit another style, do not enter it here.",
 				overall_impression: "Based on declared clone beer.",
 				aroma: "Based on declared clone beer.",
 				appearance: "Based on declared clone beer.",
