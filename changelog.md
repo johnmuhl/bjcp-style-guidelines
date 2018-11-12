@@ -7,6 +7,20 @@ Versioning].
 
 ## [Unreleased]
 
+## [0.5.0] - 2018-11-12
+
+### Added
+
+- Beers from "Appendix B: Local Styles"
+
+### Fixed
+
+- Improve formatting consistency with original `docx`
+- Use superscript "th" in e.g. "20ᵗʰ century"
+- Remove excess whitespace surrounding strings
+- Replace misused single quote in e.g. "don't" with apostrophe
+- Merge duplicate tags; e.g. "top-fermenting" and "top-fermented"
+
 ## [0.4.0] - 2018-11-11
 
 ### Added
@@ -35,7 +49,9 @@ Versioning].
 - Tags
 
 [unreleased]:
-	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.4.0...HEAD
+	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.5.0...HEAD
+[0.5.0]:
+	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.4.0...v0.5.0
 [0.4.0]:
 	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.3.0...v0.4.0
 [0.3.0]:
