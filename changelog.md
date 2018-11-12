@@ -5,7 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to [Semantic
 Versioning].
 
-## [Unreleased]
+## [0.6.0] - 2018-11-12
+
+### Added
+
+- Provisional styles
+  - 17A. Burton Ale
+  - 21B. New England IPA
+  - X4. Catharina Sour
+  - X5. New Zealand Pilsner
 
 ## [0.5.0] - 2018-11-12
 
@@ -49,7 +57,9 @@ Versioning].
 - Tags
 
 [unreleased]:
-	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.5.0...HEAD
+	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.6.0...HEAD
+[0.6.0]:
+	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.5.0...v0.6.0
 [0.5.0]:
 	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.4.0...v0.5.0
 [0.4.0]:
