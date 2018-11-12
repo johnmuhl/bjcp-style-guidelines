@@ -2601,6 +2601,46 @@ export default [
 					"strong-ale-family",
 					"malty",
 				],
+				styles: [
+					{
+						name: "Burton Ale",
+						overall_impression:
+							"A rich, malty, sweet, and bitter dark ale of moderately strong alcohol. Full bodied and chewy with a balanced hoppy finish and complex malty and hoppy aroma. Fruity notes accentuate the malt richness, while the hops help balance the sweeter finish.",
+						aroma:
+							"Moderately strong, rich, and sweet malty aroma with deep toast or dark caramel notes. No roasty or burnt malt apparent, but a bready and biscuity base is common. Dark or dried fruit (plums, figs, prunes, raisins) often present at up to a moderate level. A light alcohol presence may be noted, but should not be sharp. Hops can be light to moderate, and reflective of fruity, floral, woody, or spicy English varieties. The malt makes the strongest impression in the balance, but the other aspects add an aromatic complexity.",
+						appearance:
+							"Light copper to dark brown in color. Darker versions can be nearly opaque, but clarity should be good when noted. Moderate-sized, fine-textured, cream-colored head, persistent.",
+						flavor:
+							"Similar to the aroma, the malt is initially noted with a rich character and a somewhat sweet finish. The bitterness level is medium-high to high and helps balance the strong malt flavor. The malt flavors have a bready and biscuity character with substantial deep toast or dark caramel flavors; overly roasted and burnt flavors are inappropriate. Hop flavor can be medium to low, with a fruity, floral, spicy, or woody English quality. Dark or dried fruit flavors (plum, prune, fig, or raisin) are often present at up to a moderate level. A light alcohol flavor might be detected, but the sweetness in the finish usually masks it. The sweetness should be balanced by hops and never be cloying or clashing.",
+						mouthfeel:
+							"Medium-full to full body with a smooth, rich, luscious character. Warming alcohol should be noticeable in stronger versions. Moderate carbonation, lower when served on hand pump.",
+						comments:
+							"The beer has a long and storied history and many versions existed over time. The style represented her mostly represents the beer at its peak before WWI, although the parameters allow for later era lower-gravity versions as well. A keeping ale, the beer was typically aged before consuming.",
+						history:
+							"Popular in Burton before IPAs were invented, widely exported to the Baltic countries. After 1822, reformulated to be less sweet and strong. Most popular in the Victorian Era, with several different strengths available in the family. The strongest versions evolved into English Barleywines. Became less popular after WWII, eventually dying out around 1970. Some versions exist as Winter Warmers, Barleywines, or Old Ales, but the name has lost favor in the market.",
+						characteristic_ingredients:
+							"Bready and biscuity English base malts. Substantial portion of ‘high kilned’ malt. Historical versions often used brewing sugars and corn. More modern versions can use crystal malts for flavor and chocolate malt for color. English ale yeast. Traditional English hops, often dry hopped.",
+						style_comparison:
+							"Has some similarity in malt flavor to Wee Heavy, but with substantially more bitterness. Less strong than an English Barleywine.",
+						vital_statistics: {
+							original_extract: { min: 13.5, max: 18.1 },
+							terminal_extract: { min: 4.6, max: 6.1 },
+							alcohol: { min: 4.0, max: 6.0 },
+							bitterness: { min: 40, max: 50 },
+							color: { min: 14, max: 22 },
+						},
+						commercial_examples: ["The Laboratory Gone for a Burton"],
+						tags: [
+							"high-strength",
+							"traditional-style",
+							"balanced",
+							"strong-ale-family",
+							"british-isles",
+							"brown-color",
+							"top-fermented",
+						],
+					},
+				],
 			},
 			{
 				name: "Old Ale",
@@ -3503,6 +3543,53 @@ export default [
 							"bitter",
 							"hoppy",
 							"spice",
+						],
+					},
+					{
+						name: "New England IPA",
+						overall_impression:
+							"An American IPA with intense fruit flavors and aromas, a soft body, and smooth mouthfeel, and often opaque with substantial haze. Less perceived bitterness than traditional IPAs but always massively hop forward. This emphasis on late hopping, especially dry hopping, with hops with tropical fruit qualities lends the specific ‘juicy’ character for which this style is known.",
+						aroma:
+							"Intense hop aroma, typically with fruity qualities (stone fruit, tropical fruit, and citrus are most commonly present) reflective of newer American and New World hop varieties without being grassy or herbaceous. Clean, neutral malt in the background, potentially with a light bready sweetness without caramel or toast. Absence of any malt character is a fault. Neutral to fruity fermentation character that is well-integrated with the hops. A creamy, buttery, or acidic aroma is inappropriate. Any perceived alcohol character should be restrained and never hot.",
+						appearance:
+							"Color ranges from straw to yellow, sometimes with an orange hue. Hazy, often opaque, clarity; should not be cloudy or murky. The opacity can add a ‘shine’ to the beer and make the color seem darker. Any visible floating particulates (hop matter, yeast clumps, etc.) are a fault. Medium to rocky meringue white head with high to very high retention.",
+						flavor:
+							"The hop flavor is high to very high, and reflects the same characteristics as the aroma (emphasis on fruit, with ripe tropical fruit, stone fruit, and citrus being most common). The perceived bitterness can be somewhat low to medium-high, often being masked by the body and finish of the beer. The hop character in the aftertaste should not be sharp or harsh. Low to medium malt flavor, generally neutral, sometimes having a bready, grainy, lightly sweet flavor. Noticeable toast or caramel flavors are a flaw. Fermentation character is neutral to fruity, but as with the aroma, supportive of the hops. Off-dry to medium finish. Creamy, starchy, or sugary-sweet flavors are inappropriate, although a high ester level and lower bitterness may give the impression of up to moderate sweetness. A moderate, supportive alcohol character is acceptable but should never be hot or dominating.",
+						mouthfeel:
+							"Medium to medium-full body with a smooth character. No harsh, hop-derived astringency. Alcohol warmth may be present in stronger versions, but should never be hot. Medium carbonation is standard. The beer should not have a creamy or viscous mouthfeel, an acidic twang, or a raw starch texture.",
+						comments:
+							"The style is still evolving, but this style is essentially a smoother, hazier, juicier American IPA. In this context, ‘juicy’ refers to a mental impression of fruit juice or eating fresh, fully ripe fruit. Heavy examples suggestive of milkshakes, creamsicles, or fruit smoothies are beyond this range; IPAs should always be drinkable. Haziness comes from the dry hopping regime, not suspended yeast, starch haze, set pectins, or other techniques; a hazy shine is desirable, not a cloudy, murky mess.",
+						history:
+							"A modern craft beer style originating in the New England region of the United States. Alchemist Heady Topper is believed to be the original example and inspiration for many other interpretations that grew in popularity in the early to mid-2010s. Brewers are continuing to innovate and evolve the style, with the style trending towards a less bitter presentation to the point of making a mockery of the term “IPA”.",
+						characteristic_ingredients:
+							"Similar to many newer American IPAs but often with more oats or wheat in the grist, and less caramel or specialty malts. Restricted hop choice to American or New World varieties with a tropical fruit, stone fruit, or citrus character. Neutral to estery yeast strain. Water ranges from balanced between sulfate and chloride to using more chlorides. Heavily dry-hopped, partly during active fermentation, using a variety of hopping doses and temperatures to emphasis hop depth of aroma and flavor over bitterness. Biotransformation of hop oils during fermentation may add to the fruit character.",
+						style_comparison:
+							"Compared to American IPA, New England IPA has a fuller, softer mouthfeel, a more fruit-forward late hop expression, a more restrained perceived bitterness balance, and a hazier appearance. Many modern American IPAs are fruity and somewhat hazy; if they have a dry, crisp finish, at most medium body, and high perceived bitterness, these examples should be entered as American IPAs. Noticeable additions of fruit, lactose, or other materials to increase the fruity, smooth character should be entered in another category defined by the additive (e.g., Fruit Beer, Specialty Beer).",
+						vital_statistics: {
+							original_extract: { min: 14.7, max: 20.4 },
+							terminal_extract: { min: 2.6, max: 3.8 },
+							alcohol: { min: 4.8, max: 7.1 },
+							bitterness: { min: 25, max: 60 },
+							color: { min: 3, max: 7 },
+						},
+						commercial_examples: [
+							"Hill Farmstead Susan",
+							"Other Half Green Diamonds Double IPA",
+							"Tired Hands Alien Church",
+							"Tree House Julius",
+							"Trillium Congress Street",
+							"WeldWerks Juicy Bits",
+						],
+						tags: [
+							"bitter",
+							"craft-style",
+							"pale-color",
+							"high-strength",
+							"hoppy",
+							"ipa-family",
+							"north-america",
+							"specialty-family",
+							"top-fermented",
 						],
 					},
 				],
@@ -5517,6 +5604,92 @@ export default [
 					"Rocca dei Conti Tarì Giacchè",
 				],
 				tags: ["fruit", "specialty-family", "western-europe"],
+			},
+			{
+				name: "Catharina Sour",
+				id: "X4",
+				overall_impression:
+					"A light and refreshing wheat ale with a clean lactic sourness that is balanced by a fresh fruit addition. The low bitterness, light body, moderate alcohol content, and moderately high carbonation allow the flavor and aroma of the fruit to be the primary focus of the beer. The fruit is often, but not always, tropical in nature.",
+				aroma:
+					"The fruit character should be immediately noticeable and recognizable at a medium to high level. A clean lactic sourness should be detectable at a low to medium level, in support of the fruit. Malt is typically absent, but can be present at a low level as a supportive grainy or bready character. Clean fermentation character required. No wild or funky yeast notes, no hop character, no sharp alcohol.",
+				appearance:
+					"The color can vary based on the fruit used, but is often fairly pale. Clarity can vary from quite clear to hazy, depending on the age and the type of fruit used. Always effervescent. The head is medium to high with good retention, and varies from white to shades of color depending on the fruit used.",
+				flavor:
+					"Fresh fruit flavor dominates, from a medium to high level, with a supporting clean lactic sourness (low to medium-high, but always noticeable). The fruit should have a fresh character and not seem cooked, jam-like, or artificial. The malt flavor is often absent, but can provide a low grainy or bready flavor. However, the malt should never compete with the fruit or sourness. Hop bitterness is very low, below sensory threshold. Dry finish with a clean, tart, and fruity aftertaste. Should not have any hop flavor, acetic notes, or diacetyl. Funky Brettanomyces flavors are inappropriate.",
+				mouthfeel:
+					"Low to medium-low body. Medium to high carbonation. Alcohol warmth is inappropriate. Acidity is low to medium-high, without being aggressive or astringent.",
+				comments:
+					"If a Berliner weisse type beer was made with fruit, it should be entered as a Fruit Beer. This beer is stronger and typically features fresh fruit. The kettle souring method allows for fast production of the beer, so this is typically a present-use style. It may be bottled or canned, but it should be consumed while fresh.",
+				history:
+					"Originating in the Brazilian state of Santa Catarina in 2015 as a collaboration between craft brewers and homebrewers to create a beer featuring local ingredients that was well-suited to the warm climate. The style has spread to other states within Brazil and elsewhere, and is a popular style both commercially and in homebrew competitions.",
+				characteristic_ingredients:
+					"The grist is typically Pilsner malt and wheat (malted or unmalted), frequently in equal percentages. Kettle souring is the most common technique of production using some strain of Lactobacillus, followed by a neutral ale yeast. Fruit additions post-fermentation are most common, as a fresh and uncooked fruit character is desirable. One or two fruits are most commonly used, and are often tropical types, but any fresh fruit can be used.",
+				style_comparison:
+					"Like a stronger Berliner weisse, but with fresh fruit. Less sour than lambic and gueuze, and without Brettanomyces character.",
+				vital_statistics: {
+					original_extract: { min: 9.7, max: 11.9 },
+					terminal_extract: { min: 0.5, max: 2.0 },
+					alcohol: { min: 3.2, max: 4.4 },
+					bitterness: { min: 2, max: 8 },
+					color: { min: 2, max: 7 },
+				},
+				commercial_examples: [
+					"Itajahy Catharina Araca Sour",
+					"Blumenau Catharina Sour Sun of a Peach",
+					"Lohn Bier Catharina Sour Jaboticaba",
+					"Liffey Coroa Real",
+					"UNIKA Tangerina",
+					"Armada Daenerys",
+				],
+				tags: ["craft-style", "fruit", "sour", "specialty-family"],
+			},
+			{
+				name: "New Zealand Pilsner",
+				id: "X5",
+				overall_impression:
+					"A pale, dry, golden-colored, cleanly-fermented beer showcasing the characteristic tropical, citrusy, fruity, grassy New Zealand-type hops. Medium body, soft mouthfeel, and smooth palate and finish, with a neutral to bready malt base provide the support for this very drinkable, refreshing, hop-forward beer.",
+				aroma:
+					"Medium to high hop aroma reflective of modern New World hop varieties, often showcasing tropical fruit, citrus (lime, white grapefruit), gooseberry, honeydew melon, with a light green bell pepper or grassy aspect. Medium-low to medium malt in support, with a neutral to bready-crackery quality. Very low DMS acceptable but not required. Neutral, clean yeast character, optionally with a very light sulfury quality. The hop character should be most prominent in the balance, but some malt character must be evident.",
+				appearance:
+					"Straw to deep gold in color, but most examples are yellow-gold. Generally quite clear to brilliant clarity; haziness is a fault. Creamy, long-lasting white head.",
+				flavor:
+					"Medium to high hop bitterness, cleanly bitter not harsh, most prominent in the balance and lasting into the aftertaste. Medium to high hop flavor with similar characteristics as the aroma (tropical, citrus, gooseberry, melon, grass). Medium to medium-low malt flavor, grainy-sweet, bready, or crackery. Clean fermentation profile (fermentation esters are a fault). Dry to off-dry with a clean, smooth finish and bitter but not harsh aftertaste. The malt may suggest an impression of sweetness but the beer should not be literally sweet. The finish may be dry but not seem crisp or biting. The balance should always be bitter, but the malt flavor must be noticeable.",
+				mouthfeel:
+					"Medium to medium-light body. Medium to medium-high carbonation. Smoothness is the most prominent impression. Never harsh nor astringent.",
+				comments:
+					"The hop aromatics often have a similar quality as many New Zealand Sauvignon Blanc wines, with tropical fruit, grassy, melon, and lime aromatics. Often brewed as a hybrid style in New Zealand using a neutral ale yeast at cool temperatures. Limiting the sulfur content of the finished product is important since it can clash with the hop character. If judging in competition, this style fits best within Category 12. Pale Commonwealth Beer.",
+				history:
+					"Largely defined by the original created at Emerson’s Brewery in the mid-1990s, New Zealand Pilsner has expanded in character as the varieties of New Zealand hops have expanded in number and popularity.",
+				characteristic_ingredients:
+					"New Zealand hop varieties, such as Motueka, Riwake, Nelson Sauvin, often with Pacific Jade for bittering. Other new world varieties from Australia or the US may be used, if they have similar characteristics. Pale base malts, Pilsner or pale types, perhaps with a small percentage of wheat malt. Fairly low-mineral water, typically with more chloride than sulfate. Clean lager yeast or very neutral ale yeast.",
+				style_comparison:
+					"Compared to a German Pils, not as crisp and dry in the finish with a softer, maltier presentation and a fuller body. Compared to a Czech Premium Pale Lager, less malt complexity, a cleaner fermentation. Similar in balance to a Kolsch or British Golden Ale, but with a hoppier aroma. Compared to any of these German styles, showcasing New Zealand hop varieties with tropical, citrusy, fruity, grassy characteristics, often with a white wine-like character. Should not be as hoppy or bitter in balance as an IPA.",
+				vital_statistics: {
+					original_extract: { min: 10.9, max: 13.7 },
+					terminal_extract: { min: 2.3, max: 3.6 },
+					alcohol: { min: 3.6, max: 4.6 },
+					bitterness: { min: 25, max: 45 },
+					color: { min: 2, max: 7 },
+				},
+				commercial_examples: [
+					"Croucher New Zealand Pilsner",
+					"Emerson's Pilsner",
+					"Liberty Halo Pilsner",
+					"Panhead Port Road Pilsner",
+					"Sawmill Pilsner",
+					"Tuatara Mot Eureka",
+				],
+				tags: [
+					"bitter",
+					"pale-color",
+					"standard-strength",
+					"bottom-fermented",
+					"hoppy",
+					"pilsner-family",
+					"lagered",
+					"craft-style",
+					"pacific",
+				],
 			},
 		],
 	},
