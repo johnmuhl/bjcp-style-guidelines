@@ -1,16 +1,16 @@
 {
-  "name": "bjcp-style-guidelines",
-  "version": "0.6.0+20160531",
-  "description": "BJCP Style Guidelines",
-  "scripts": {
-    "fmt": "prettier --write '**/*.{js,json,md}' '!package.json'",
-    "lint": "prettier --list-different '**/*.{js,json,md}' '!package.json'",
-    "test": "tap --node-arg=-r --node-arg=esm test.js"
-  },
-  "devDependencies": {
-    "ajv": "6.5.5",
-    "esm": "3.0.84",
-    "prettier": "1.15.2",
-    "tap": "12.0.1"
-  }
+	"name": "bjcp-style-guidelines",
+	"version": "0.7.0+20160531",
+	"description": "BJCP Style Guidelines",
+	"scripts": {
+		"fmt": "prettier --write '**/*.{js,json,md}' '!package.json'",
+		"lint": "prettier --list-different '**/*.{js,json,md}' '!package.json'",
+		"test": "tap --node-arg=-r --node-arg=esm test.js"
+	},
+	"devDependencies": {
+		"ajv": "6.5.5",
+		"esm": "3.0.84",
+		"prettier": "1.15.2",
+		"tap": "12.0.1"
+	}
 }

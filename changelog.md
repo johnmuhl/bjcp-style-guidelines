@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog], and this project adheres to [Semantic
 Versioning].
 
+## [0.7.0] - 2018-11-17
+
+### Added
+
+- README file
+
+### Fixed
+
+- Default export
+
 ## [0.6.0] - 2018-11-12
 
 ### Added
@@ -57,7 +67,9 @@ Versioning].
 - Tags
 
 [unreleased]:
-	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.6.0...HEAD
+	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.7.0...HEAD
+[0.7.0]:
+	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.6.0...v0.7.0
 [0.6.0]:
 	https://github.com/johnmuhl/bjcp-style-guidelines/compare/v0.5.0...v0.6.0
 [0.5.0]:
