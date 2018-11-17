@@ -1,4 +1,4 @@
-export default [
+const guidelines = [
 	{
 		name: "Standard American Beer",
 		id: "1",
@@ -5694,3 +5694,5 @@ export default [
 		],
 	},
 ];
+
+export default guidelines;
