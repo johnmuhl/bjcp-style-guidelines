@@ -69,7 +69,7 @@ const guidelines = [
 					"Strong flavors are a fault. Often what non-craft beer drinkers expect to be served if they order beer in the United States. May be marketed as Pilsner beers outside of Europe, but should not be confused with traditional examples.",
 				history:
 					"Although German immigrants had brewed traditional Pilsner-inspired lager beer in the United States since the mid-late 1800s, the modern American lager style was heavily influenced by Prohibition and World War II. Surviving breweries consolidated, expanded distribution, and heavily promoted a beer style that was appealing to a broad range of the population. Became the dominant beer style for many decades, and spawning many international rivals who would develop similarly bland products for the mass market supported by heavy advertising.",
-				characteristics_ingredients:
+				characteristic_ingredients:
 					"Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts.",
 				style_comparison:
 					"Stronger, more flavor and body than a Light American Lager. Less bitterness and flavor than an International Lager. Significantly less flavor, hops, and bitterness than traditional European Pilsners.",
@@ -3240,7 +3240,7 @@ const guidelines = [
 			},
 			{
 				name: "Specialty IPA",
-				id: "22B",
+				id: "21B",
 				notes:
 					"**Specialty IPA** isn't a distinct style, but is more appropriately thought of as a competition entry category. Beers entered as this style are not experimental beers; they are a collection of currently produced types of beer that may or may not have any market longevity. This category also allows for expansion, so potential future IPA variants (St. Patrick’s Day Green IPA, Romulan Blue IPA, Zima Clear IPA, etc.) have a place to be entered without redoing the style guidelines. The only common element is that they have the balance and overall impression of an IPA (typically, an American IPA) but with some minor tweak. The term ‘IPA’ is used as a singular descriptor of a type of hoppy, bitter beer. It is not meant to be spelled out as ‘India Pale Ale’ when used in the context of a Specialty IPA. None of these beers ever historically went to India, and many aren't pale. But the craft beer market knows what to expect in balance when a beer is described as an ‘IPA’ – so the modifiers used to differentiate them are based on that concept alone.",
 				overall_impression:
@@ -5434,7 +5434,7 @@ const guidelines = [
 					"Varies with base style. Aged in wooden casks or barrels previously used to store alcohol (e.g., whiskey, bourbon, port, sherry, Madeira, wine, etc). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.",
 				entry_instructions:
 					"The entrant **must** specify the additional alcohol character, with information about the barrel if relevant to the finished flavor profile. The entrant **must** specify the _base style_; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood or ingredient has been used, the entrant **must** supply a brief description of the sensory aspects the ingredients adds to the beer.",
-				commercial_example:
+				commercial_examples:
 					"Founders Kentucky Breakfast Stout, Goose Island Bourbon County Stout, J.W. Lees Harvest Ale in Port, Sherry, Lagavulin Whisky or Calvados Casks, The Lost Abbey Angel’s Share Ale",
 				tags: ["specialty-family", "wood"],
 			},
@@ -5572,7 +5572,7 @@ const guidelines = [
 					"A sometimes refreshing, sometimes more complex Italian ale characterized by different varieties of grapes.",
 				aroma:
 					"Aromatic characteristics of a particular grape have to be noticeable but do should not overpower the other aromas. The grape/wine character should be pleasant and should not have defects such as oxidation. Malt character is usually restrained while hop aroma can range from medium-low to absent. Some examples can have a low to moderately low wild character described as barnyard, earthy, goaty but should not be as intense as in a lambic/fruit lambic. No diacetyl.",
-				Appearance:
+				appearance:
 					"Color can range from gold to dark brown. Reddish/ruby color is usually due to the use of red grape varieties. White to reddish head with generally a medium low retention. Clarity is generally good but can be affected by the use of grape.",
 				flavor:
 					"Many interpretations are possible. As with aroma, grape character (must or winey like) must be present but may range from subtle to medium intensity. Varieties of grape can contribute differently on the flavor profile: in general stone/tropical fruit flavors (peach, apricot, pineapple) can come from white grapes and red fruit flavors (e.g., cherry, strawberry) from red grape varieties. Further fruity character of fermentative origin is also common. Different kinds of special malts can be used but should be supportive and balanced, not so prominent as to overshadow the base beer. Roasted and/or strong chocolate character is inappropriate. Some sour notes are common and may help to improve the drinkability but should not be prominent as in Flemish ale/Lambic. Oak flavors, along with some barnyard, earthy, goaty notes, coming from aging in barrels can be present but should not be predominant. Bitterness and hop flavors are generally low. Diacetyl from very low to none.",
