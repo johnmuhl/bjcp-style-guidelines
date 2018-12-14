@@ -1,6 +1,6 @@
 {
 	"name": "bjcp-style-guidelines",
-	"version": "0.7.0+20160531",
+	"version": "0.7.1+20160531",
 	"description": "BJCP Style Guidelines",
 	"scripts": {
 		"fmt": "prettier --write '**/*.{js,json,md}' '!package.json'",
