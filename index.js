@@ -5434,8 +5434,12 @@ const guidelines = [
 					"Varies with base style. Aged in wooden casks or barrels previously used to store alcohol (e.g., whiskey, bourbon, port, sherry, Madeira, wine, etc). Fuller-bodied, higher-gravity base styles often are used since they can best stand up to the additional flavors, although experimentation is encouraged.",
 				entry_instructions:
 					"The entrant **must** specify the additional alcohol character, with information about the barrel if relevant to the finished flavor profile. The entrant **must** specify the _base style_; the base style can be either a classic BJCP style (i.e., a named subcategory) or may be a generic type of beer (e.g., porter, brown ale). If an unusual wood or ingredient has been used, the entrant **must** supply a brief description of the sensory aspects the ingredients adds to the beer.",
-				commercial_examples:
-					"Founders Kentucky Breakfast Stout, Goose Island Bourbon County Stout, J.W. Lees Harvest Ale in Port, Sherry, Lagavulin Whisky or Calvados Casks, The Lost Abbey Angel’s Share Ale",
+				commercial_examples: [
+					"Founders Kentucky Breakfast Stout",
+					"Goose Island Bourbon County Stout",
+					"J.W. Lees Harvest Ale in Port, Sherry, Lagavulin Whisky or Calvados Casks",
+					"The Lost Abbey Angel’s Share Ale",
+				],
 				tags: ["specialty-family", "wood"],
 			},
 		],
