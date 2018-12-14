@@ -1,4 +1,4 @@
-BCJP Style Guidelines as a javascript module and set of [JSON schemas].
+BJCP Style Guidelines as a javascript module and set of [JSON schemas].
 
 ```js
 import guidelines from "./bjcp-style-guidelines/index.js";
