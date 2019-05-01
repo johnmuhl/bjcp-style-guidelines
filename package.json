@@ -3,8 +3,8 @@
 	"version": "0.7.1+20160531",
 	"description": "BJCP Style Guidelines",
 	"scripts": {
-		"fmt": "prettier --write '**/*.{js,json,md}' '!package.json'",
-		"lint": "prettier --list-different '**/*.{js,json,md}' '!package.json'",
+		"fmt": "prettier --write '**/*.{js,json,md}' '!package.json' '!.nyc_output/**/*'",
+		"lint": "prettier --list-different '**/*.{js,json,md}' '!package.json' '!.nyc_output/**/*'",
 		"test": "tap --node-arg=-r --node-arg=esm test.js"
 	},
 	"devDependencies": {
