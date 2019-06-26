@@ -1,3 +1,5 @@
+**Repository is now located at https://git.axlotl.io/jm/bjcp-style-guidelines**
+
 BJCP Style Guidelines as a javascript module and set of [JSON schemas].
 
 ```js
